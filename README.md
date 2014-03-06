@@ -10,6 +10,7 @@
   - Perl
   - Scheme
   - __HTML & CSS__
+  - C (without using printf)
 
 ##License
 
