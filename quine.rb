@@ -1,1 +1,1 @@
-eval s="$><<'eval s='+s.inspect"
+eval s=%q($><<"eval s=%q(#{s})\n")
