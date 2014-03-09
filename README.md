@@ -15,6 +15,7 @@
   - D
   - Brainf*ck
   - Rust
+  - C++11
 
 ##License
 
