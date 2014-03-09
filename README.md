@@ -12,6 +12,8 @@
   - __HTML & CSS__
   - C (with or without using printf)
   - Haskell
+  - D
+  - Brainf*ck
 
 ##License
 
