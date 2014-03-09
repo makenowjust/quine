@@ -14,6 +14,7 @@
   - Haskell
   - D
   - Brainf*ck
+  - Rust
 
 ##License
 
