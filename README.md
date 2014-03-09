@@ -8,9 +8,10 @@
   - Ruby
   - Python (Python2)
   - Perl
-  - Scheme
+  - Scheme (gauche)
   - __HTML & CSS__
-  - C (without using printf)
+  - C (with or without using printf)
+  - Haskell
 
 ##License
 
