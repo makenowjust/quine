@@ -3,6 +3,6 @@ cmd  = ARGV.join " "
 
 `#{cmd} #{file} > dist/#{file}`
 
-res = `diff #{file} dist/#{file}`
+res = `diff --strip-trailing-cr #{file} dist/#{file}`
 
 puts res.strip
