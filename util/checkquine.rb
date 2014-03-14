@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 file = ARGV.shift
 cmd  = ARGV.join " "
 
