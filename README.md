@@ -13,9 +13,10 @@
   - C (with or without using printf)
   - Haskell
   - D
-  - Brainf*ck
+  - Brainf\*ck
   - Rust
   - C++11
+  - Go
 
 ##License
 
