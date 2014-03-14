@@ -4,7 +4,7 @@
 
 ##Languages
 
-  - JavaScript (normal or __mark only__, node.js)
+  - JavaScript (normal or __mark only__ or functional, node.js)
   - Ruby
   - Python (Python2)
   - Perl
