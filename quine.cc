@@ -19,10 +19,8 @@ void quine(std::vector<std::string> &src) {
   }
 }
 
-int main(void) {
-  using namespace std;
-  
-  vector<string> src {
+auto main(void) -> int {
+  std::vector<std::string> src {
     "#include <string>",
     "#include <vector>",
     "#include <iostream>",
@@ -44,10 +42,8 @@ int main(void) {
     "  }",
     "}",
     "",
-    "int main(void) {",
-    "  using namespace std;",
-    "  ",
-    "  vector<string> src {",
+    "auto main(void) -> int {",
+    "  std::vector<std::string> src {",
     "QUINE",
     "  };",
     "  quine(src);",
