@@ -6,7 +6,7 @@
 
   - JavaScript (normal or __mark only__ or functional, node.js)
   - Ruby
-  - Python (Python2)
+  - Python (Python2, Python3)
   - Perl
   - Scheme (gauche)
   - __HTML & CSS__
