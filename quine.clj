@@ -1,0 +1,1 @@
+(use (quote clojure.walk)) (let [s1 (quote (0 (1 2))) s2 (quote (3 [4 (1 10) 5 (1 11) 6 (1 12)] (7 (8 6 4) (8 (9 6 4 5 6) 5)))) k (quote [use quote clojure.walk let s1 s2 k prn postwalk-replace conj])] (prn (postwalk-replace k s1) (postwalk-replace (conj k s1 s2 k) s2)))
