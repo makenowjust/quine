@@ -30,6 +30,7 @@
   - Elixir
   - Pascal (Free Pascal)
   - PARI/GP (with options `-f` and `-q`)
+  - Common Lisp (sbcl)
 
 `doublequine_compile_run_time.d` is Double Quine (compile-time and runtime).
 It can run:
