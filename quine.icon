@@ -1,0 +1,17 @@
+link strings
+
+procedure main(args)
+local s, r, c, e, k, v, i
+r := s := "link strings\n_
+\n_
+procedure main(args)\n_
+local s, r, c, e, k, v, i\n_
+r := s := \"\"$\"\"\n_
+k := [\"\\\\\", \"\\\"\", \"\\n\"]; v := [\"\\\\\", \"\\\"\", \"n_\\n\"]\n_
+every s := replace(s, e := k[i := 1 to *k], \"\\\\\" || v[i])\n_
+write(replace(r, \"\\\"$\\\"\", s))\n_
+end"
+k := ["\\", "\"", "\n"]; v := ["\\", "\"", "n_\n"]
+every s := replace(s, e := k[i := 1 to *k], "\\" || v[i])
+write(replace(r, "\"$\"", s))
+end
