@@ -1,8 +1,10 @@
 #Quine for X
 
-  The quine program written by MakeNowJust.
+The quine programs written by MakeNowJust.
 
 ##Languages
+
+Now, 51 language.
 
   - JavaScript
   - Ruby
