@@ -4,15 +4,15 @@
 
 ##Languages
 
-  - JavaScript (normal or __mark only__ or functional, node.js)
+  - JavaScript
   - Ruby
-  - Python (Python2, Python3)
+  - Python
+  - Python 3
   - Perl
   - Scheme (gauche)
-  - __HTML & CSS__
-  - C (with or without using printf)
+  - C
   - Haskell
-  - D (runtime or compile-time)
+  - D
   - Brainf\*ck
   - Rust
   - C++11
@@ -55,15 +55,6 @@
   - VHDL
   - J
   - K ([Kona](http://kona.github.io/))
-
-`doublequine_compile_run_time.d` is Double Quine (compile-time and runtime).
-It can run:
-
-```
-$ dmd -c -o- doublequine_compile_run_time.d 2> doublequine_compile_run_time_2.d 
-$ rdmd doublequine_compile_run_time_2.d > doublequine_compile_run_time_3.d 
-$ diff doublequine_compile_run_time.d doublequine_compile_run_time_3.d 
-```
 
 ##License
 
