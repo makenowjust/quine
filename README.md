@@ -51,6 +51,8 @@
   - Tcl/Tk
   - Pure
   - Icon
+  - Verilog HDL
+  - VHDL
 
 `doublequine_compile_run_time.d` is Double Quine (compile-time and runtime).
 It can run:
