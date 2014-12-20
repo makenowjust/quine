@@ -18,7 +18,7 @@
   - C++11
   - Go
   - Java
-  - __Makefile__
+  - Makefile
   - Dart
   - Fortran 95
   - Bash
@@ -58,23 +58,20 @@
 
 ##License
 
-  These programs licensed CC0.
+These source code were licensed by WTFPL
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="http://makenowjust.appspot.com/">
-    <span property="dct:title">Tsuyusato Kitsune</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Quine for X</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="JP" about="http://makenowjust.appspot.com/">
-  日本</span>.
-</p>
+```
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+ 
+Copyright (C) 2014 TSUYUSATO Kitsune <make.just.on@gmail.com>
 
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+ 
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ 
+ 0. You just DO WHAT THE FUCK YOU WANT TO.
+```
