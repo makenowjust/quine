@@ -58,6 +58,7 @@ Now, 52 language.
   - J
   - K ([Kona](http://kona.github.io/))
   - FALSE
+  - Julia
 
 ##License
 
