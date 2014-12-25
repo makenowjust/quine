@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 53 language.
+Now, 54 language.
 
   - JavaScript
   - Ruby
@@ -59,6 +59,7 @@ Now, 53 language.
   - K ([Kona](http://kona.github.io/))
   - FALSE
   - Julia
+  - Lazy K
 
 ##License
 
