@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 54 language.
+Now, 57 language.
 
   - JavaScript
   - Ruby
