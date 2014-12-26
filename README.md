@@ -60,6 +60,9 @@ Now, 54 language.
   - FALSE
   - Julia
   - Lazy K
+  - C#
+  - F#
+  - VB.NET
 
 ##License
 
