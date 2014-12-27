@@ -63,6 +63,8 @@ Now, 57 language.
   - C#
   - F#
   - VB.NET
+  - Forth
+  - Joy
 
 ##License
 
