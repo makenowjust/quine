@@ -1,4 +1,4 @@
-#Quine for X
+#Quine Museum
 
 The quine programs written by MakeNowJust.
 
