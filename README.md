@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 59 language.
+Now, 60 language.
 
   - JavaScript
   - Ruby
@@ -65,6 +65,7 @@ Now, 59 language.
   - VB.NET
   - Forth
   - Joy
+  - jq
 
 ##License
 
