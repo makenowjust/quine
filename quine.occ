@@ -1,0 +1,19 @@
+PROC main(CHAN BYTE out)
+  VAL []BYTE src IS "PROC main(CHAN BYTE out)*n  VAL []BYTE src IS $:*n  SEQ i = 0 FOR (SIZE src)*n    IF*n      src[i] = 36*n        SEQ*n          out ! 34*n          SEQ j = 0 FOR (SIZE src)*n            IF*n              src[j] = 10*n                SEQ*n                  out ! 42*n                  out ! 110*n              TRUE*n                out ! src[j]*n          out ! 34*n      TRUE*n        out ! src[i]*n:*n":
+  SEQ i = 0 FOR (SIZE src)
+    IF
+      src[i] = 36
+        SEQ
+          out ! 34
+          SEQ j = 0 FOR (SIZE src)
+            IF
+              src[j] = 10
+                SEQ
+                  out ! 42
+                  out ! 110
+              TRUE
+                out ! src[j]
+          out ! 34
+      TRUE
+        out ! src[i]
+:
