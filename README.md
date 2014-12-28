@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 61 language.
+Now, 62 language.
 
   - JavaScript
   - Ruby
@@ -67,6 +67,7 @@ Now, 61 language.
   - Joy
   - jq
   - Occam
+  - OCaml
 
 ##License
 
