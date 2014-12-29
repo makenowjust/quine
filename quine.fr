@@ -1,0 +1,2 @@
+module Quine where
+main _ = putStrLn $ s ++ show s where s = "module Quine where\12main _ = putStrLn $ s ++ show s where s = "
