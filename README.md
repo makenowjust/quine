@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 69 language.
+Now, 70 language.
 
   - JavaScript
   - Ruby
@@ -75,6 +75,7 @@ Now, 69 language.
   - REBOL
   - R
   - Nemerle
+  - Haxe
 
 ##License
 
