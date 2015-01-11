@@ -11,7 +11,7 @@ Now, 74 language.
   - Python
   - Python 3
   - Perl
-  - Scheme (gauche)
+  - Scheme
   - C
   - Haskell
   - D
@@ -30,9 +30,9 @@ Now, 74 language.
   - PHP
   - Erlang
   - Elixir
-  - Pascal (Free Pascal)
-  - PARI/GP (with options `-f` and `-q`)
-  - Common Lisp (sbcl)
+  - Pascal
+  - PARI/GP
+  - Common Lisp
   - Scala
   - Lisp Flavoured Erlang
   - M4
@@ -40,7 +40,7 @@ Now, 74 language.
   - bc
   - dc
   - gnuplot
-  - Prolog (SWI-Prolog)
+  - Prolog
   - AWK
   - sed
   - Io
@@ -56,7 +56,7 @@ Now, 74 language.
   - Verilog HDL
   - VHDL
   - J
-  - K ([Kona](http://kona.github.io/))
+  - K
   - FALSE
   - Julia
   - Lazy K
@@ -83,20 +83,4 @@ Now, 74 language.
 
 ##License
 
-These source code were licensed by WTFPL
-
-```
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
- 
-Copyright (C) 2014 TSUYUSATO Kitsune <make.just.on@gmail.com>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
- 
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
- 
- 0. You just DO WHAT THE FUCK YOU WANT TO.
-```
+These source code were licensed by WTFPL. Please see <http://makenowjust.github.io/license/wtfpl?2014-2015>.
