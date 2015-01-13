@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 76 language.
+Now, 77 language.
 
   - JavaScript
   - Ruby
@@ -82,6 +82,7 @@ Now, 76 language.
   - Ceylon
   - Kotlin
   - Gosu
+  - ATS
 
 ##License
 
