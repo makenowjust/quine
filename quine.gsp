@@ -1,0 +1,1 @@
+var q1 = '"'; var q2 = "'"; var s = "; print('var q1 = ' + q2 + q1 + q2 + '; var q2 = ' + q1 + q2 + q1 + '; var s = ' + q1 + s + q1 + s)"; print('var q1 = ' + q2 + q1 + q2 + '; var q2 = ' + q1 + q2 + q1 + '; var s = ' + q1 + s + q1 + s)
