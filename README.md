@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 79 language.
+Now, 80 language.
 
   - JavaScript
   - Ruby
@@ -85,6 +85,7 @@ Now, 79 language.
   - ATS
   - Vala
   - Thue
+  - Mirah
 
 ##License
 
