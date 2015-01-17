@@ -1,1 +1,1 @@
-((lambda (x) (display (list x (list 'quote x))) (newline)) '(lambda (x) (display (list x (list 'quote x))) (newline)))
+((lambda (q) (write-char #\() (write q) (write-char #\') (write q) (write-char #\)) (newline))'(lambda (q) (write-char #\() (write q) (write-char #\') (write q) (write-char #\)) (newline)))
