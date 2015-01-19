@@ -1,0 +1,1 @@
+"dup option(34 intToChar){vector->q; q swap cat q cat swap cat say}else{drop drop}"dup option(34 intToChar){vector->q; q swap cat q cat swap cat say}else{drop drop}
