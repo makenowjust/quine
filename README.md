@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 83 language.
+Now, 84 language.
 
   - JavaScript
   - Ruby
@@ -89,6 +89,7 @@ Now, 83 language.
   - Zsh
   - Befunge
   - Kitten
+  - igo
 
 ##License
 
