@@ -1,0 +1,5 @@
+package main
+import "fmt"
+func main()
+	s := "package main\nimport \"fmt\"\nfunc main()\n\ts := %q\n\tfmt.Printf(s,s)\n"
+	fmt.Printf(s,s)
