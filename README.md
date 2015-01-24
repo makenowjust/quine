@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 86 language.
+Now, 87 language.
 
   - JavaScript
   - Ruby
@@ -92,6 +92,7 @@ Now, 86 language.
   - igo
   - Smalltalk
   - Neko
+  - SML
 
 ##License
 
