@@ -1,0 +1,1 @@
+program quine;Void main(){q=String(Char(34));s=["program quine;Void main(){q=String(Char(34));s=[","];putStrLn(s[0]+q+s[0]+q+s[2]+q+s[1]+q+s[2]+q+s[2]+q+s[1]);}",","];putStrLn(s[0]+q+s[0]+q+s[2]+q+s[1]+q+s[2]+q+s[2]+q+s[1]);}
