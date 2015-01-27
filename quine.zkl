@@ -1,0 +1,1 @@
+fcn(s,c=(34).toChar()){s.fmt(c,s,c).println()}("fcn(s,c=(34).toChar()){s.fmt(c,s,c).println()}(%s%s%s)")
