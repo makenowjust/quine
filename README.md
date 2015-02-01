@@ -4,7 +4,7 @@ The quine programs written by MakeNowJust.
 
 ##Languages
 
-Now, 94 language.
+Now, 95 language.
 
   - JavaScript
   - Ruby
@@ -100,6 +100,7 @@ Now, 94 language.
   - Perl6
   - Cobra
   - Euphoria
+  - S-Lang
 
 ##License
 
