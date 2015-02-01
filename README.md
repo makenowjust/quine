@@ -1,8 +1,10 @@
-#Quine Museum
+Quine Museum
+===
 
-The quine programs written by MakeNowJust.
+The Quine programs written by MakeNowJust.
 
-##Languages
+Languages
+---
 
 Now, 95 language.
 
@@ -102,6 +104,7 @@ Now, 95 language.
   - Euphoria
   - S-Lang
 
-##License
+License
+---
 
 These source code were licensed by WTFPL. Please see <http://makenowjust.github.io/license/wtfpl?2014-2015>.
