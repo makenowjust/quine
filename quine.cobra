@@ -1,0 +1,5 @@
+class Quine
+	def main
+		q = c"'"
+		r = r'class Quine\n\tdef main\n\t\tq = c"[q]"\n\t\tr = r[q][r][q]\n\t\tprint [q][r][q]'
+		print 'class Quine\n\tdef main\n\t\tq = c"[q]"\n\t\tr = r[q][r][q]\n\t\tprint [q][r][q]'
