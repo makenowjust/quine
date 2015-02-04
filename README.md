@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, 95 language.
+Now, 96 language.
 
   - JavaScript
   - Ruby
@@ -103,6 +103,7 @@ Now, 95 language.
   - Cobra
   - Euphoria
   - S-Lang
+  - Emacs Lisp
 
 License
 ---
