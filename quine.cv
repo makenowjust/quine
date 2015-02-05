@@ -1,0 +1,7 @@
+import Sys,Strings
+func main():
+  b := '\\'
+  q := '"'
+  n := '\n'
+  s := "import Sys,Strings%sfunc main():%s  b := '%s%s'%s  q := '%s'%s  n := '%sn'%s  s := %s%s%s%s  Sys::println(Strings::format(s,n,n,b,b,n,q,n,b,n,q,s,q,n))"
+  Sys::println(Strings::format(s,n,n,b,b,n,q,n,b,n,q,s,q,n))
