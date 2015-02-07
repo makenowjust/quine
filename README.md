@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, 99 language.
+Now, implemented in 100 programming language!
 
   - JavaScript
   - Ruby
@@ -107,6 +107,7 @@ Now, 99 language.
   - Genie
   - Converge
   - AliceML
+  - Whitespace
 
 License
 ---
