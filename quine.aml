@@ -1,0 +1,1 @@
+import structure Print from"x-alice:/lib/system/Print"do(fn s=>(print s;Print.printVal s;print"\n";OS.Process.terminate 0))"import structure Print from\"x-alice:/lib/system/Print\"do(fn s=>(print s;Print.printVal s;print\"\\n\";OS.Process.terminate 0))"
