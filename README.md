@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 103 programming languages!
+Now, implemented in 104 programming languages!
 
   - JavaScript
   - Ruby
@@ -111,6 +111,7 @@ Now, implemented in 103 programming languages!
   - tcsh
   - Dylan
   - Soopy
+  - Idris
 
 License
 ---
