@@ -1,0 +1,1 @@
+System.out.printf(s="System.out.printf(s=%c%s%c,[34,s,34,10]);%c",[34,s,34,10]);
