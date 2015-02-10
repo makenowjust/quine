@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 107 programming languages!
+Now, implemented in 108 programming languages!
 
   - JavaScript
   - Ruby
@@ -115,6 +115,7 @@ Now, implemented in 107 programming languages!
   - FreeBASIC
   - BeanShell
   - Pnuts
+  - Demi
 
 License
 ---
