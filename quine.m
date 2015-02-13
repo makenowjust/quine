@@ -1,1 +1,3 @@
-eval(s="printf('eval(s=\"%s\")\\n',undo_string_escapes(s))")
+#!/usr/bin/mira -exp
+lay (quine ++ ["quine = " ++ show quine])
+quine = ["#!/usr/bin/mira -exp","lay (quine ++ [\"quine = \" ++ show quine])"]
