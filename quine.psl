@@ -1,0 +1,1 @@
+$(s){c=strlib.char;q=c(34);print`s+q+s+q+c(59)+c(10);}`"$(s){c=strlib.char;q=c(34);print`s+q+s+q+c(59)+c(10);}`";
