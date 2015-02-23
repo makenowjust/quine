@@ -1,0 +1,1 @@
+int main(){string q='q',s=';q[0]=39;print("int main(){string q="+q+"q"+q+",s="+q+s+q+s);q[0]=10;print(q);return 0;}';q[0]=39;print("int main(){string q="+q+"q"+q+",s="+q+s+q+s);q[0]=10;print(q);return 0;}
