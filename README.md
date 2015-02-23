@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 115 programming languages!
+Now, implemented in 116 programming languages!
 
   - JavaScript
   - Ruby
@@ -123,6 +123,7 @@ Now, implemented in 115 programming languages!
   - Mercury
   - Xtal
   - SQLite3
+  - PSL
 
 License
 ---
