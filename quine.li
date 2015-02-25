@@ -1,0 +1,64 @@
+Section Header
+  + name := QUINE;
+Section Public
+  - main <- (
+    + s :STRING_CONSTANT;
+    s := "Section Header\n\
+         \  + name := QUINE;\n\
+         \Section Public\n\
+         \  - main <- (\n\
+         \    + s :STRING_CONSTANT;\n\
+         \    s := \"%\";\n\
+         \    1.to (s.count) do { i:INTEGER;\n\
+         \      + c :CHARACTER;\n\
+         \      c := s.item i;\n\
+         \      (c.code == 37).if {\n\
+         \        1.to (s.count) do {\n\
+         \          j :INTEGER;\n\
+         \          + d :CHARACTER;\n\
+         \          d := s.item j;\n\
+         \          d.code.when 34 then {\n\
+         \            92.to_character.print;\n\
+         \          }.when 10 then {\n\
+         \            92.to_character.print;\n\
+         \            110.to_character.print;\n\
+         \            92.to_character.print;\n\
+         \          };\n\
+         \          d.print;\n\
+         \          d.code.when 10 then {\n\
+         \            \"         \".print;\n\
+         \            92.to_character.print;\n\
+         \          };\n\
+         \        };\n\
+         \      } else {\n\
+         \        c.print;\n\
+         \      };\n\
+         \    };\n\
+         \  );\n\
+         \";
+    1.to (s.count) do { i:INTEGER;
+      + c :CHARACTER;
+      c := s.item i;
+      (c.code == 37).if {
+        1.to (s.count) do {
+          j :INTEGER;
+          + d :CHARACTER;
+          d := s.item j;
+          d.code.when 34 then {
+            92.to_character.print;
+          }.when 10 then {
+            92.to_character.print;
+            110.to_character.print;
+            92.to_character.print;
+          };
+          d.print;
+          d.code.when 10 then {
+            "         ".print;
+            92.to_character.print;
+          };
+        };
+      } else {
+        c.print;
+      };
+    };
+  );
