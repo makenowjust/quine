@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 117 programming languages!
+Now, implemented in 118 programming languages!
 
   - JavaScript
   - Ruby
@@ -125,6 +125,7 @@ Now, implemented in 117 programming languages!
   - SQLite3
   - PSL
   - AngelScript
+  - Salmon
 
 License
 ---
