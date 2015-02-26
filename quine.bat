@@ -2,7 +2,7 @@
 CALL :q %%%%
 ECHO :q
 CALL :q %%%%1 ECHO.%%%%2
-ECHO EXIT /b
+ECHO EXIT /B
 GOTO :EOF
 :q
 ECHO.%2@ECHO OFF
