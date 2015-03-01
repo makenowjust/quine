@@ -1,0 +1,1 @@
+((fun (s) (msg out "(%= '%=)" s s) (newline out)) '(fun (s) (msg out "(%= '%=)" s s) (newline out)))
