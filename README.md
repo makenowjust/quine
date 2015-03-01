@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 123 programming languages!
+Now, implemented in 124 programming languages!
 
   - JavaScript
   - Ruby
@@ -131,6 +131,7 @@ Now, implemented in 123 programming languages!
   - PicoLisp
   - newLISP
   - Arc
+  - GOO
 
 License
 ---
