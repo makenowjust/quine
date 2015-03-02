@@ -1,0 +1,1 @@
+((lambda (q) (printf "(%l '%l)\n" q q)) '(lambda (q) (printf "(%l '%l)\n" q q)))
