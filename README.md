@@ -133,7 +133,7 @@ Now, implemented in 126 programming languages!
   - Arc
   - GOO
   - Lush
-  - Fortran 70
+  - Fortran 77
 
 License
 ---
