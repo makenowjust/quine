@@ -1,0 +1,1 @@
+s:string="s:string=%c%s%c;emit stdout<-format(%c%s%c,34,s,34,34,s,34);";emit stdout<-format("s:string=%c%s%c;emit stdout<-format(%c%s%c,34,s,34,34,s,34);",34,s,34,34,s,34);
