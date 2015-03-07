@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 129 programming languages!
+Now, implemented in 130 programming languages!
 
   - JavaScript
   - Ruby
@@ -137,6 +137,7 @@ Now, implemented in 129 programming languages!
   - Croc
   - Sawzall
   - Zhpy
+  - Seph
 
 License
 ---
