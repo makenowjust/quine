@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 136 programming languages!
+Now, implemented in 137 programming languages!
 
   - JavaScript
   - Ruby
@@ -144,6 +144,7 @@ Now, implemented in 136 programming languages!
   - Oz
   - Fancy
   - Tea
+  - GolfScript
 
 License
 ---
