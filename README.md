@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 142 programming languages!
+Now, implemented in 143 programming languages!
 
   - JavaScript
   - Ruby
@@ -150,6 +150,7 @@ Now, implemented in 142 programming languages!
   - Squirrel
   - LOLCODE
   - Hack
+  - Kite
 
 License
 ---
