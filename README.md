@@ -150,7 +150,7 @@ Now, implemented in 143 programming languages!
   - Squirrel
   - LOLCODE
   - Hack
-  - Kite
+  - Kite (http://www.kite-language.org)
 
 License
 ---
