@@ -1,0 +1,7 @@
+$ include "seed7_05.s7i";
+const proc: main is func
+  local
+    var array string: s is []("$ include \"seed7_05.s7i\";\nconst proc: main is func\n  local\n    var array string: s is [](",",",");\n  begin\n    writeln(s[1]&literal(s[1])&s[2]&literal(s[2])&s[2]&literal(s[3])&s[3]);\n  end func;");
+  begin
+    writeln(s[1]&literal(s[1])&s[2]&literal(s[2])&s[2]&literal(s[3])&s[3]);
+  end func;
