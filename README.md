@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 145 programming languages!
+Now, implemented in 146 programming languages!
 
   - JavaScript
   - Ruby
@@ -153,6 +153,7 @@ Now, implemented in 145 programming languages!
   - Kite (http://www.kite-language.org)
   - Seed7
   - PostScript
+  - lang5
 
 License
 ---
