@@ -6,7 +6,7 @@ The Quine programs written by MakeNowJust.
 Languages
 ---
 
-Now, implemented in 148 programming languages!
+Now, implemented in 149 programming languages!
 
   - JavaScript
   - Ruby
@@ -156,6 +156,7 @@ Now, implemented in 148 programming languages!
   - lang5
   - C+=
   - MoonScript
+  - CMake
 
 License
 ---
