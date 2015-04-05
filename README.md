@@ -1,7 +1,7 @@
 Quine Museum
 ===
 
-The Quine programs written by MakeNowJust.
+The Quine programs written by @MakeNowJust.
 
 Note
 ---
