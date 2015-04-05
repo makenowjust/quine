@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 151 programming languages!
+Now, implemented in 152 programming languages!
 
   - JavaScript
   - Ruby
@@ -170,6 +170,7 @@ Now, implemented in 151 programming languages!
   - CMake
   - Grass
   - PureScript
+  - PogoScript
 
 License
 ---
