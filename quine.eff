@@ -1,0 +1,1 @@
+let _=let s="in std#print\"let _=let s=\";print s;std#print s\n"in std#print"let _=let s=";print s;std#print s
