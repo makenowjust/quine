@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 154 programming languages!
+Now, implemented in 155 programming languages!
 
   - JavaScript
   - Ruby
@@ -173,6 +173,7 @@ Now, implemented in 154 programming languages!
   - PogoScript
   - Eff
   - JSX
+  - TypeScript
 
 License
 ---
