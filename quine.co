@@ -1,1 +1,1 @@
-<[|>console.log (["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)join(" ")]>|>console.log (["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)join(" ")
+<[|>console.log ...(["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)]>|>console.log ...(["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)
