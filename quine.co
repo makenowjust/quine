@@ -1,1 +1,1 @@
-console.log <[console.log .map((s,i,a)->[,"<["+a.join(" ")+"]"+">"+s][i]||s).join " "]>.map((s,i,a)->[,"<["+a.join(" ")+"]"+">"+s][i]||s).join " "
+<[|>console.log (["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)join(" ")]>|>console.log (["<[#{&join(" ")+"]"}>#{s}"][i]||s for s,i of&)join(" ")
