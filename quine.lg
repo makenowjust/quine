@@ -1,0 +1,6 @@
+make "s [[type [make "s]] [type char 32] [show s] [foreach s [print ?]] bye]
+type [make "s]
+type char 32
+show s
+foreach s [print ?]
+bye
