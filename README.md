@@ -177,7 +177,7 @@ Now, implemented in 159 programming languages!
   - Coco
   - MiniScript
   - LiveScript
-  - LOGO
+  - Logo
 
 License
 ---
