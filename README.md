@@ -19,47 +19,47 @@ Languages
 
 Now, implemented in 161 programming languages!
 
-  - JavaScript
-  - Ruby
-  - Python
-  - Python 3
-  - Perl
-  - Scheme
-  - C
-  - Haskell
-  - D
-  - Brainf\*ck
-  - Rust
-  - C++11
-  - Go
-  - Java
-  - Makefile
-  - Dart
-  - Fortran 95
-  - Bash
-  - Clojure
-  - Groovy
-  - Boo
-  - PHP
-  - Erlang
-  - Elixir
-  - Pascal
-  - PARI/GP
-  - Common Lisp
-  - Scala
-  - Lisp Flavoured Erlang
-  - M4
-  - CoffeeScript
-  - bc
-  - dc
-  - gnuplot
-  - Prolog
-  - AWK
-  - sed
-  - Io
-  - Eiffel
-  - Factor
-  - Self
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Ruby](https://www.ruby-lang.org/)
+  - [Python](https://www.python.org)
+  - [Python 3](https://www.python.org)
+  - [Perl](https://www.perl.org)
+  - [Scheme](http://www.schemers.org)
+  - [C](http://www.cprogramming.com)
+  - [Haskell](https://www.haskell.org)
+  - [D](http://dlang.org)
+  - [Brainf\*ck](http://www.muppetlabs.com/~breadbox/bf/)
+  - [Rust](http://www.rust-lang.org)
+  - [C++11](http://www.cprogramming.com)
+  - [Go](https://golang.org)
+  - [Java](https://www.java.com/)
+  - [Makefile](https://www.gnu.org/software/make/)
+  - [Dart](https://www.dartlang.org)
+  - [Fortran 95](https://gcc.gnu.org/fortran/)
+  - [Bash](https://www.gnu.org/software/bash/)
+  - [Clojure](http://clojure.org)
+  - [Groovy](http://www.groovy-lang.org)
+  - [Boo](http://boo.codehaus.org)
+  - [PHP](http://php.net)
+  - [Erlang](http://www.erlang.org)
+  - [Elixir](http://elixir-lang.org)
+  - [Pascal](http://www.freepascal.org)
+  - [PARI/GP](http://pari.math.u-bordeaux.fr)
+  - [Common Lisp](https://common-lisp.net)
+  - [Scala](http://www.scala-lang.org)
+  - [Lisp Flavoured Erlang](http://lfe.io)
+  - [M4](https://www.gnu.org/software/m4/)
+  - [CoffeeScript](http://coffeescript.org)
+  - [bc](https://www.gnu.org/software/bc/)
+  - [dc](https://www.gnu.org/software/dc/)
+  - [gnuplot](http://www.gnuplot.info)
+  - [Prolog](http://www.swi-prolog.org)
+  - [AWK](https://www.gnu.org/software/gawk/)
+  - [sed](https://www.gnu.org/software/sed/)
+  - [Io](http://iolanguage.org)
+  - [Eiffel](https://www.eiffel.com)
+  - [Factor](http://factorcode.org)
+  - [Self](http://www.selflanguage.org)
   - Nimrod
   - Lua
   - Pike
