@@ -1,0 +1,1 @@
+{w,s,q|print(q+s+w+s+','+w+s+w+','+w+q+w+')')}('"',"'","{w,s,q|print(q+s+w+s+','+w+s+w+','+w+q+w+')')}(")
