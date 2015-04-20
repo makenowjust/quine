@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 164 programming languages!
+Now, implemented in 165 programming languages!
 
   - JavaScript
   - Ruby
@@ -183,6 +183,7 @@ Now, implemented in 164 programming languages!
   - Mammouth
   - Kaffeine
   - Jack
+  - Move
 
 License
 ---
