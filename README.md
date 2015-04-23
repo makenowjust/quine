@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 167 programming languages!
+Now, implemented in 168 programming languages!
 
   - JavaScript
   - Ruby
@@ -186,6 +186,7 @@ Now, implemented in 167 programming languages!
   - Move
   - Ham
   - ColaScript
+  - GorillaScript
 
 License
 ---
