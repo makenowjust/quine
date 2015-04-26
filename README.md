@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 171 programming languages!
+Now, implemented in 172 programming languages!
 
   - JavaScript
   - Ruby
@@ -190,6 +190,7 @@ Now, implemented in 171 programming languages!
   - RedScript
   - Khepri
   - Taiji
+  - Stripe
 
 License
 ---
