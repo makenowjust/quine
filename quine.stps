@@ -1,0 +1,1 @@
+let q=";console.log('let q='+JSON.stringify(q)+q);";console.log('let q='+JSON.stringify(q)+q);
