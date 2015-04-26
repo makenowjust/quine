@@ -190,7 +190,7 @@ Now, implemented in 172 programming languages!
   - RedScript
   - Khepri
   - Taiji
-  - Stripe
+  - Stripes
 
 License
 ---
