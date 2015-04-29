@@ -1,0 +1,1 @@
+var c=String.fromCharCode(39),s=[];s<-'var c=String.fromCharCode(39),s=[];s<-';s<-';::console.log(s[0]+c+s.join(c+";s<-"+c)+c+s[1]);';::console.log(s[0]+c+s.join(c+";s<-"+c)+c+s[1]);
