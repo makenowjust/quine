@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 175 programming languages!
+Now, implemented in 176 programming languages!
 
   - JavaScript
   - Ruby
@@ -194,6 +194,7 @@ Now, implemented in 175 programming languages!
   - LiteScript
   - Spider
   - Kal
+  - Earl Grey
 
 License
 ---
