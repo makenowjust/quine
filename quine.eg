@@ -1,0 +1,1 @@
+(s->print s+JSON.stringify(s)+')')("(s->print s+JSON.stringify(s)+')')(")
