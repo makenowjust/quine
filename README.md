@@ -180,21 +180,21 @@ Now, implemented in 176 programming languages!
   - [Logo](https://www.cs.berkeley.edu/~bh/logo.html)
   - [CirruScript](http://cirru.org)
   - [DogeScript](https://dogescript.com)
-  - Mammouth
-  - Kaffeine
-  - Jack
-  - Move
-  - Ham
-  - ColaScript
-  - GorillaScript
-  - RedScript
-  - Khepri
-  - Taiji
-  - Stripes
-  - LiteScript
-  - Spider
-  - Kal
-  - Earl Grey
+  - [Mammouth](http://mammouth.wamalaka.com)
+  - [Kaffeine](http://weepy.github.io/kaffeine/)
+  - [Jack](https://github.com/creationix/jack)
+  - [Move](https://github.com/rsms/move)
+  - [Ham](https://github.com/jameskeane/ham-script)
+  - [ColaScript](https://github.com/TrigenSoftware/ColaScript)
+  - [GorillaScript](http://ckknight.github.io/gorillascript/)
+  - [RedScript](https://github.com/AdamBrodzinski/RedScript)
+  - [Khepri](http://khepri-lang.com)
+  - [Taiji](https://github.com/taijiweb/taijilang)
+  - [Stripes](http://danilo.lekoits.com/Stripes/)
+  - [LiteScript](https://github.com/luciotato/LiteScript)
+  - [Spider](http://spiderlang.org)
+  - [Kal](http://rzimmerman.github.io/kal/)
+  - [Earl Grey](https://github.com/breuleux/earl-grey/)
 
 License
 ---
