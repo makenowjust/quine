@@ -1,0 +1,1 @@
+[write [dup apply] write [apply] explode 0 get_at writeln][dup apply]apply
