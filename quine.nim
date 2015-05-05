@@ -1,4 +1,5 @@
-import strutils
+import
+  strutils
 var
-  s = "import strutils\x0Avar\x0A  s = $#\x0A(s % s.escape).echo"
-(s % s.escape).echo
+  t = "import\x0A  strutils\x0Avar\x0A  t = $#\x0A(t % t.escape).echo"
+(t % t.escape).echo
