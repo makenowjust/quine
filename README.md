@@ -60,7 +60,7 @@ Now, implemented in 178 programming languages!
   - [Eiffel](https://www.eiffel.com)
   - [Factor](http://factorcode.org)
   - [Self](http://www.selflanguage.org)
-  - [Nimrod](http://nim-lang.org)
+  - [Nim](http://nim-lang.org)
   - [Lua](http://www.lua.org)
   - [Pike](http://pike.lysator.liu.se)
   - [Tcl/Tk](http://www.tcl.tk)
