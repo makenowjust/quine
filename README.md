@@ -17,7 +17,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 180 programming languages!
+Now, implemented in 181 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -199,6 +199,7 @@ Now, implemented in 180 programming languages!
   - [Underload](https://esolangs.org/wiki/Underload)
   - [Roy](http://roy.brianmckenna.org)
   - [ECMAScript6](http://wiki.ecmascript.org/doku.php?id=harmony:harmony)
+  - [jisp](http://jisp.io)
 
 License
 ---
