@@ -1,0 +1,1 @@
+((#(s) (console.log s s)) "((#(s) (console.log s s)) %j)")
