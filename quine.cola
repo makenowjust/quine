@@ -1,0 +1,38 @@
+using System;
+show(string[] s)
+{
+  var w = Char.ConvertFromUtf32(34);
+  var p = Char.ConvertFromUtf32(32);
+  foreach (var l in s)
+    io.println(p+p+p+p+w+l+w+',');
+}
+main()
+{
+  var s = {
+    "using System;",
+    "show(string[] s)",
+    "{",
+    "  var w = Char.ConvertFromUtf32(34);",
+    "  var p = Char.ConvertFromUtf32(32);",
+    "  foreach (var l in s)",
+    "    io.println(p+p+p+p+w+l+w+',');",
+    "}",
+    "main()",
+    "{",
+    "  var s = {",
+    "  };",
+    "  foreach (var l in s)",
+    "  {",
+    "    io.println(l);",
+    "    if (l =~ /var s [=]/)",
+    "      show(s);",
+    "  }",
+    "}",
+  };
+  foreach (var l in s)
+  {
+    io.println(l);
+    if (l =~ /var s [=]/)
+      show(s);
+  }
+}
