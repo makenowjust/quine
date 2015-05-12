@@ -19,7 +19,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 184 programming languages!
+Now, implemented in 185 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -205,6 +205,7 @@ Now, implemented in 184 programming languages!
   - [Sibilant](http://sibilantjs.info)
   - [Hodor](http://www.hodor-lang.org)
   - [Cola](http://www.cola-lang.org)
+  - [Heron](https://code.google.com/p/heron-language/)
 
 License
 ---
