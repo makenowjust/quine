@@ -1,0 +1,55 @@
+module quine
+{
+  imports
+  {
+    console = new Heron.Windows.Console();
+  }
+  methods
+  {
+    Main()
+    {
+      var w = Char.FromInt(34);
+      var p = ' '.ToString();
+      var s = [
+        "module quine",
+        "{",
+        "  imports",
+        "  {",
+        "    console = new Heron.Windows.Console();",
+        "  }",
+        "  methods",
+        "  {",
+        "    Main()",
+        "    {",
+        "      var w = Char.FromInt(34);",
+        "      var p = ' '.ToString();",
+        "      var s = [",
+        "      ];",
+        "      foreach (l in s)",
+        "      {",
+        "        WriteLine(l);",
+        "        if (l == s[12])",
+        "        {",
+        "          foreach (i in 0..s.Count()-2)",
+        "            WriteLine(p+p+p+p+p+p+p+p+w+s[i]+w+',');",
+        "          WriteLine(p+p+p+p+p+p+p+p+w+s[s.Count()-1]+w);",
+        "        }",
+        "      }",
+        "      Write('}'.ToString());",
+        "    }",
+        "  }"
+      ];
+      foreach (l in s)
+      {
+        WriteLine(l);
+        if (l == s[12])
+        {
+          foreach (i in 0..s.Count()-2)
+            WriteLine(p+p+p+p+p+p+p+p+w+s[i]+w+',');
+          WriteLine(p+p+p+p+p+p+p+p+w+s[s.Count()-1]+w);
+        }
+      }
+      Write('}'.ToString());
+    }
+  }
+}
