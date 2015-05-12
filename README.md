@@ -3,6 +3,8 @@ Quine Museum
 
 The Quine programs written by [@MakeNowJust].
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://amzn.com/w/QWA17E3G82ZL)
+
 Note
 ---
 
