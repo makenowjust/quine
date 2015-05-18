@@ -1,0 +1,2 @@
+def q(s) = global_.console.log(s + JSON.stringify s)
+q "def q(s) = global_.console.log(s + JSON.stringify s)\nq "
