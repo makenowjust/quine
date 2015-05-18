@@ -19,7 +19,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 187 programming languages!
+Now, implemented in 188 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -208,6 +208,7 @@ Now, implemented in 187 programming languages!
   - [Heron](https://code.google.com/p/heron-language/)
   - [ooc](http://ooc-lang.org)
   - [SNOBOL](http://www.snobol4.org)
+  - [MoeScript](https://github.com/moescript/moescript)
 
 License
 ---
