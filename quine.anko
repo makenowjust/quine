@@ -1,0 +1,2 @@
+s="s=%#v\nprintf(s,s)\n"
+printf(s,s)
