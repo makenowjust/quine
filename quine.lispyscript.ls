@@ -1,0 +1,1 @@
+(function? ((function (c s) (console.log (str s c s c (String.fromCharCode 41 41)))) (String.fromCharCode 34) "(function? ((function (c s) (console.log (str s c s c (String.fromCharCode 41 41)))) (String.fromCharCode 34) "))
