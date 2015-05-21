@@ -19,7 +19,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 190 programming languages!
+Now, implemented in 191 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -211,6 +211,7 @@ Now, implemented in 190 programming languages!
   - [MoeScript](https://github.com/moescript/moescript)
   - [wisp](https://github.com/Gozala/wisp)
   - [Anko](https://github.com/mattn/anko)
+  - [LispyScript](http://lispyscript.com)
 
 License
 ---
