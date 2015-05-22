@@ -1,0 +1,40 @@
+PROC s = (INT n)STRING:
+( n|
+  """", " ", ",", "|",
+  "PROC s = (INT n)STRING:",
+  "( n|",
+  ");",
+  "main:",
+  "( FOR i FROM 5 TO 23 DO",
+  "    print((s(i), new line));",
+  "    IF i = 6 THEN",
+  "      print((s(2), s(2), s(1), s(1), s(1), s(1), s(3), s(2),",
+  "        s(1), s(2), s(1), s(3), s(2),",
+  "        s(1), s(3), s(1), s(3), s(2),",
+  "        s(1), s(4), s(1), s(3), new line));",
+  "      FOR j FROM 5 TO 22 DO",
+  "        print((s(2), s(2), s(1), s(j), s(1), s(3), new line))",
+  "      OD;",
+  "      print((s(2), s(2), s(1), s(23), s(1), s(4), new line));",
+  "      print((s(2), s(2), s(1), s(24), s(1), new line))",
+  "    FI",
+  "  OD",
+  ")"|
+  "Other"
+);
+main:
+( FOR i FROM 5 TO 23 DO
+    print((s(i), new line));
+    IF i = 6 THEN
+      print((s(2), s(2), s(1), s(1), s(1), s(1), s(3), s(2),
+        s(1), s(2), s(1), s(3), s(2),
+        s(1), s(3), s(1), s(3), s(2),
+        s(1), s(4), s(1), s(3), new line));
+      FOR j FROM 5 TO 22 DO
+        print((s(2), s(2), s(1), s(j), s(1), s(3), new line))
+      OD;
+      print((s(2), s(2), s(1), s(23), s(1), s(4), new line));
+      print((s(2), s(2), s(1), s(24), s(1), new line))
+    FI
+  OD
+)
