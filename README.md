@@ -19,7 +19,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 194 programming languages!
+Now, implemented in 195 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -215,6 +215,7 @@ Now, implemented in 194 programming languages!
   - [Algol68](http://jmvdveer.home.xs4all.nl)
   - [Wortel](https://github.com/atennapel/Wortel)
   - [Miro](https://github.com/atennapel/Wortel/tree/master/reimplementation)
+  - [MochiScript](https://github.com/jeffsu/mochiscript)
 
 License
 ---
