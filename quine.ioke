@@ -1,1 +1,0 @@
-s=".[:s,:=,s inspect]map(print).s println".[:s,:=,s inspect]map(print).s println
