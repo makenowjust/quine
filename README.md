@@ -153,7 +153,7 @@ Now, implemented in 200 programming languages!
   - [Seph](https://seph-lang.org)
   - [Shen](http://www.shenlanguage.org)
   - [Hy](http://docs.hylang.org/en/latest/)
-  - [なでしこ](http://nadesi.com/top/)
+  - [なでしこ](http://nadesi.com/top/) - Nadesiko
   - [Oz](http://mozart.github.io)
   - [Fancy](http://www.fancy-lang.org)
   - [Tea](http://www.pdmfc.com/tea/)
