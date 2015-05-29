@@ -1,0 +1,1 @@
+proc f(s:string){println$s+34.char.str+s+34.char.str+41.char.str+59.char.str;};f("proc f(s:string){println$s+34.char.str+s+34.char.str+41.char.str+59.char.str;};f(");
