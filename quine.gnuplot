@@ -1,9 +1,9 @@
 if (!exists("i"))\
-  set print "/dev/stdout";\
+  set print "-";\
   i = 0;\
   s = ""\
   . 'if (!exists("i"))$'\
-  . '  set print "/dev/stdout";$'\
+  . '  set print "-";$'\
   . '  i = 0;$'\
   . '  s = ""$'\
   . '  . %;$'\
