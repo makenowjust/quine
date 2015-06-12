@@ -221,6 +221,7 @@ Now, implemented in 200 programming languages!
   - [E](http://wiki.erights.org/wiki/Main_Page)
   - [Felix](http://felix-lang.org)
   - [எழில்](http://ezhillang.org) - Ezhil
+  - [REXX](http://www.oorexx.org/)
 
 License
 ---
