@@ -1,1 +1,53 @@
-1
+define s(i) {
+  if (i == 0) print "\\"
+  if (i == 1) print "\q"
+  if (i == 2) print "\n"
+  if (i == 3) print "q"
+  if (i == 4) print "n"
+  if (i == 5) print "  if (i == "
+  if (i == 6) print ") print "
+  if (i == 10) print "define s(i) {"
+  if (i == 11) print "}"
+  if (i == 12) print "t = s(10) + s(2)"
+  if (i == 13) print "for (i = 0; i <= 6; i++) {"
+  if (i == 14) print "  print s(5) + i"
+  if (i == 15) print "  t = s(6) + s(1)"
+  if (i == 16) print "  if (i == 0) {"
+  if (i == 17) print "    t = s(0) + s(0)"
+  if (i == 18) print "  } else if (i <= 2) {"
+  if (i == 19) print "    t = s(0) + s(i + 2)"
+  if (i == 20) print "  } else {"
+  if (i == 21) print "    t = s(i)"
+  if (i == 22) print "  }"
+  if (i == 23) print "  t = s(1) + s(2)"
+  if (i == 24) print "}"
+  if (i == 25) print "for (i = 10; i <= 32; i++) {"
+  if (i == 26) print "  print s(5) + i"
+  if (i == 27) print "  t = s(6) + s(1) + s(i) + s(1) + s(2)"
+  if (i == 28) print "}"
+  if (i == 29) print "for (i = 11; i <= 32; i++) {"
+  if (i == 30) print "  t = s(i) + s(2)"
+  if (i == 31) print "}"
+  if (i == 32) print "halt"
+}
+t = s(10) + s(2)
+for (i = 0; i <= 6; i++) {
+  print s(5) + i
+  t = s(6) + s(1)
+  if (i == 0) {
+    t = s(0) + s(0)
+  } else if (i <= 2) {
+    t = s(0) + s(i + 2)
+  } else {
+    t = s(i)
+  }
+  t = s(1) + s(2)
+}
+for (i = 10; i <= 32; i++) {
+  print s(5) + i
+  t = s(6) + s(1) + s(i) + s(1) + s(2)
+}
+for (i = 11; i <= 32; i++) {
+  t = s(i) + s(2)
+}
+halt
