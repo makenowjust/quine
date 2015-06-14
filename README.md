@@ -19,7 +19,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 201 programming languages!
+Now, implemented in 202 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -52,7 +52,7 @@ Now, implemented in 201 programming languages!
   - [Lisp Flavoured Erlang](http://lfe.io)
   - [M4](https://www.gnu.org/software/m4/)
   - [CoffeeScript](http://coffeescript.org)
-  - [bc](https://www.gnu.org/software/bc/)
+  - [POSIX bc](http://pubs.opengroup.org/onlinepubs/000095399/utilities/bc.html)
   - [dc](https://www.gnu.org/software/dc/)
   - [gnuplot](http://www.gnuplot.info)
   - [Prolog](http://www.swi-prolog.org)
@@ -222,6 +222,7 @@ Now, implemented in 201 programming languages!
   - [Felix](http://felix-lang.org)
   - [எழில்](http://ezhillang.org) - Ezhil
   - [REXX](http://www.oorexx.org/)
+  - [GNU bc](http://www.gnu.org/software/bc/)
 
 License
 ---
