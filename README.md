@@ -20,7 +20,7 @@ and another Quines [here](https://github.com/MakeNowJust/quine2).
 Languages
 ---
 
-Now, implemented in 203 programming languages!
+Now, implemented in 204 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -225,6 +225,7 @@ Now, implemented in 203 programming languages!
   - [REXX](http://www.oorexx.org/)
   - [GNU bc](http://www.gnu.org/software/bc/)
   - [Foo](http://esolangs.org/wiki/Foo)
+  - [ed](http://www.gnu.org/software/ed/)
 
 License
 ---
