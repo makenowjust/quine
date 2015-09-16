@@ -10,13 +10,11 @@ The Quine programs written by [@MakeNowJust].
 Note
 ---
 
-I have three policies.
+I have three policies:
 
-  1. I put __only__ Quine written by __only__ [@MakeNowJust] into this repository.
-  2. 1 Programming Language, 1 Quine
-  3. These Quines can execute on command line (stdio).
-
-and another Quines [here](https://github.com/MakeNowJust/quine2).
+  1. 1 Programming Language 1 Quine
+  2. These Quines can execute on command line (stdio).
+  3. I wish these quines make you happy and help your hacking!
 
 Languages
 ---
