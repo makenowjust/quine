@@ -1,0 +1,6 @@
+module Quine=
+let s=<<module Quine=
+let s=<<$>
+let ()=Sys.write"-"(([^$]+.(set"$"s).(ins">").ANYCHAR+).get s)
+>>
+let ()=Sys.write"-"(([^$]+.(set"$"s).(ins">").ANYCHAR+).get s)
