@@ -19,7 +19,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 206 programming languages!
+Now, implemented in 207 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -227,6 +227,7 @@ Now, implemented in 206 programming languages!
   - [ed](http://www.gnu.org/software/ed/)
   - [Pony](http://www.ponylang.org/)
   - [Boomerang](http://www.seas.upenn.edu/~harmony/)
+  - [Scilab](http://www.scilab.org/)
 
 License
 ---
