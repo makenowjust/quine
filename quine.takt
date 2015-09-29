@@ -1,0 +1,2 @@
+var s = `printf ( "var s = " ) print ( s ) printf ( "eval(s)%c" , 10 )`
+eval(s)
