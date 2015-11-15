@@ -1,0 +1,6 @@
+FUNC Main() int
+  list<string> s = ["FUNC Main() int", "list<string> s = ", "s[1] ..= s.ToString()", "IO.print(s.join(NEW([10, 32, 32])) .. NEW([10, 125]))", "RETURN 0"]
+  s[1] ..= s.ToString()
+  IO.print(s.join(NEW([10, 32, 32])) .. NEW([10, 125]))
+  RETURN 0
+}
