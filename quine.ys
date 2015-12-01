@@ -1,0 +1,2 @@
+Eval(x:=Hold([Write(`Hold(Eval(x:=Hold(@x))));WriteString(";
+");]));
