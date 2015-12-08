@@ -109,7 +109,7 @@ Now, implemented in 211 programming languages!
   - [Neko](http://nekovm.org)
   - [SML](http://mlton.org)
   - [Kaya](http://kayalang.org)
-  - [Swift](https://developer.apple.com/swift/)
+  - [Swift](https://swift.org/)
   - [ZKL](http://home.comcast.net/~zenkinetic/zkl.html)
   - [Curry](http://www-ps.informatik.uni-kiel.de/currywiki/start)
   - [Perl6](http://perl6.org)
