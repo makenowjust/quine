@@ -1,1 +1,1 @@
-let s=";println(\"let s=\"+s.debugDescription+s)";println("let s="+s.debugDescription+s)
+let s=";print(\"let s=\"+s.debugDescription+s)";print("let s="+s.debugDescription+s)
