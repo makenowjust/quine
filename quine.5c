@@ -1,0 +1,6 @@
+void quine ()
+{
+    printf ("print quine;\nquine ();\n");
+}
+print quine;
+quine ();
