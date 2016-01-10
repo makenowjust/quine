@@ -19,7 +19,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 211 programming languages!
+Now, implemented in 212 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -232,6 +232,7 @@ Now, implemented in 211 programming languages!
   - [FontForge](http://fontforge.github.io/)
   - [Zimbu](http://www.zimbu.org/)
   - [Yacas](http://www.yacas.org/)
+  - [Nickle](http://nickle.org/)
 
 License
 ---
