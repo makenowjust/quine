@@ -32,7 +32,7 @@ Now, implemented in 212 programming languages!
   - [D](http://dlang.org)
   - [Brainf\*ck](http://www.muppetlabs.com/~breadbox/bf/)
   - [Rust](http://www.rust-lang.org)
-  - [C++11](http://www.cprogramming.com)
+  - [C++](http://www.cprogramming.com)
   - [Go](https://golang.org)
   - [Java](https://www.java.com/)
   - [Makefile](https://www.gnu.org/software/make/)
