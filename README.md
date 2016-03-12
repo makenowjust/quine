@@ -19,7 +19,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 214 programming languages!
+Now, implemented in 215 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -235,6 +235,7 @@ Now, implemented in 214 programming languages!
   - [Nickle](http://nickle.org/)
   - [Emojicode](http://www.emojicode.org/)
   - [Imba](http://imba.io)
+  - [Nix](http://nixos.org/nix/)
 
 License
 ---
