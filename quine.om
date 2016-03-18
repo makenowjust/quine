@@ -1,0 +1,6 @@
+f(s) =
+  println($s)
+  println(f(\$\'\'$s\'\'))
+f($''f(s) =
+  println($s)
+  println(f(\$\'\'$s\'\'))'')
