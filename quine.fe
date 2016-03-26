@@ -1,0 +1,1 @@
+uses "console", "string"; string s = 'uses "console", "string"; string s = %c%s%c; Console.println(String.sprintf(s, 39, s, 39));'; Console.println(String.sprintf(s, 39, s, 39));
