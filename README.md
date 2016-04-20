@@ -19,7 +19,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 219 programming languages!
+Now, implemented in 220 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -240,6 +240,7 @@ Now, implemented in 219 programming languages!
   - [Wren](http://wren.io/)
   - [Ferite](http://ferite.sourceforge.net/index.html)
   - [Ivy](https://godoc.org/robpike.io/ivy)
+  - [ActionScript 3.0](http://redtamarin.com/)
 
 License
 ---
