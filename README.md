@@ -244,6 +244,8 @@ Now, implemented in 223 programming languages!
 License
 ---
 
-These source code were licensed by WTFPL. Please see <http://makenowjust.github.io/license/wtfpl?2014-2015>.
+These codes are licensed by [SUCHI-WARE](https://github.com/MakeNowJust/sushi-ware) license :sushi:
+
+(C) 2014-2016 TSUYUSATO "MakeNowJust" Kitsune
 
 [@MakeNowJust]: https://github.com/MakeNowJust
