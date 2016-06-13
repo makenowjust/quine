@@ -19,7 +19,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 220 programming languages!
+Now, implemented in 221 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -241,6 +241,7 @@ Now, implemented in 220 programming languages!
   - [Ferite](http://ferite.sourceforge.net/index.html)
   - [Ivy](https://godoc.org/robpike.io/ivy)
   - [ActionScript 3.0](http://redtamarin.com/)
+  - [AppleScript](https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 
 License
 ---
