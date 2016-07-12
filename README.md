@@ -50,7 +50,7 @@ Now, implemented in 221 programming languages!
   - [Common Lisp](https://common-lisp.net)
   - [Scala](http://www.scala-lang.org)
   - [Lisp Flavoured Erlang](http://lfe.io)
-  - [M4](https://www.gnu.org/software/m4/)
+  - [m4](https://www.gnu.org/software/m4/)
   - [CoffeeScript](http://coffeescript.org)
   - [POSIX bc](http://pubs.opengroup.org/onlinepubs/000095399/utilities/bc.html)
   - [dc](https://www.gnu.org/software/dc/)
