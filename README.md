@@ -244,7 +244,8 @@ Now, implemented in 223 programming languages!
 License
 ---
 
-These codes are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license :sushi:
+These codes are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
+[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
 (C) 2014-2016 TSUYUSATO "MakeNowJust" Kitsune
 
