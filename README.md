@@ -17,6 +17,9 @@ Languages
 
 Now, implemented in 224 programming languages!
 
+<details>
+  <summary>Languages List</summary>
+
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
   - [Python](https://www.python.org)
@@ -241,6 +244,8 @@ Now, implemented in 224 programming languages!
   - [MiniZinc](http://www.minizinc.org/)
   - [Red](http://www.red-lang.org/)
   - [Spry](http://sprylang.org/)
+
+</details>
 
 License
 ---
