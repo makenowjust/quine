@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 223 programming languages!
+Now, implemented in 224 programming languages!
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -240,6 +240,7 @@ Now, implemented in 223 programming languages!
   - [AppleScript](https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
   - [MiniZinc](http://www.minizinc.org/)
   - [Red](http://www.red-lang.org/)
+  - [Spry](http://sprylang.org/)
 
 License
 ---
