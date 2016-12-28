@@ -1,0 +1,2 @@
+s = [echo ("s = " , serialize s , "\x0Aeval func s")]
+eval func s
