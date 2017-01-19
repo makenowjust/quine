@@ -1,0 +1,1 @@
+string s="\"\\string s=;intvec x=3..11,1,2,1,2,2,3..70,1,12..70;string(s[x]);quit;";intvec x=3..11,1,2,1,2,2,3..70,1,12..70;string(s[x]);quit;
