@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 226 programming languages!
+Now, implemented in 227 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -246,6 +246,7 @@ Now, implemented in 226 programming languages!
   - [Spry](http://sprylang.org/)
   - [Objective-C](https://developer.apple.com/reference/objectivec)
   - [Charly](https://kcreate.github.io/charly-lang/)
+  - [Singular](https://www.singular.uni-kl.de/index.php)
 
 </details>
 
