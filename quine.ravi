@@ -1,0 +1,2 @@
+(function(q:integer)return(function(s)print(s)print(string.char(q)..s..string.char(q))end)end)(34)
+"(function(q:integer)return(function(s)print(s)print(string.char(q)..s..string.char(q))end)end)(34)"
