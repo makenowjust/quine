@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 229 programming languages!
+Now, implemented in 230 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -249,6 +249,7 @@ Now, implemented in 229 programming languages!
   - [Singular](https://www.singular.uni-kl.de/index.php)
   - [YoptaScript](https://yopta.space/)
   - [Ravi](http://the-ravi-programming-language.readthedocs.io/en/latest/ravi-overview.html)
+  - [Elvish](https://github.com/elves/elvish)
 
 </details>
 
