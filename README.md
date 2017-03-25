@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 231 programming languages!
+Now, implemented in 232 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -251,6 +251,7 @@ Now, implemented in 231 programming languages!
   - [Ravi](http://the-ravi-programming-language.readthedocs.io/en/latest/ravi-overview.html)
   - [Elvish](https://github.com/elves/elvish)
   - [Jam](https://www.perforce.com/resources/documentation/jam)
+  - [Danfy](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
 
 </details>
 
