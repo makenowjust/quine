@@ -1,1 +1,1 @@
-' |> (lambda s: repr(s) + s) |> print' |> (lambda s: repr(s) + s) |> print
+'|> (s -> (|repr(s), s|)) |*> print' |> (s -> (|repr(s), s|)) |*> print
