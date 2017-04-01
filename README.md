@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 232 programming languages!
+Now, implemented in 233 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -252,6 +252,7 @@ Now, implemented in 232 programming languages!
   - [Elvish](https://github.com/elves/elvish)
   - [Jam](https://www.perforce.com/resources/documentation/jam)
   - [Danfy](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
+  - [Coconut](http://coconut-lang.org/)
 
 </details>
 
