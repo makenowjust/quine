@@ -1,0 +1,1 @@
+["{0} |> (|s: List[String]| s[0].format([s].join())) |> print"] |> (|s: List[String]| s[0].format([s].join())) |> print
