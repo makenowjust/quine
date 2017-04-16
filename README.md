@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 234 programming languages!
+Now, implemented in 235 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -254,6 +254,7 @@ Now, implemented in 234 programming languages!
   - [Danfy](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
   - [Coconut](http://coconut-lang.org/)
   - [Lily](https://fascinatedbox.github.io/lily-site/)
+  - [Chapel](http://chapel.cray.com/)
 
 </details>
 
