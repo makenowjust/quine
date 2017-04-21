@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 235 programming languages!
+Now, implemented in 236 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -255,6 +255,7 @@ Now, implemented in 235 programming languages!
   - [Coconut](http://coconut-lang.org/)
   - [Lily](https://fascinatedbox.github.io/lily-site/)
   - [Chapel](http://chapel.cray.com/)
+  - [APL](https://www.gnu.org/software/apl/)
 
 </details>
 
