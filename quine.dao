@@ -1,0 +1,9 @@
+source = @[dao]source = $(verb)$(source)$(verb)
+io.writeln(source.expand({
+  "source" => source,
+  "verb"   => "$(verb)",
+}))@[dao]
+io.writeln(source.expand({
+  "source" => source,
+  "verb"   => "@[dao]",
+}))
