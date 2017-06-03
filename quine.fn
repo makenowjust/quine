@@ -1,0 +1,4 @@
+fn main @public case _:
+  S = "fn main @public case _:~n  S = ~p~n  io.format(S, [S])~nend~n"
+  io.format(S, [S])
+end
