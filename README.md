@@ -257,7 +257,7 @@ Now, implemented in 238 programming languages!
   - [Chapel](http://chapel.cray.com/)
   - [APL](https://www.gnu.org/software/apl/)
   - [Dao](http://daoscript.org/)
-  - [Déjà Vu](github.com/gvx/deja)
+  - [Déjà Vu](https://github.com/gvx/deja)
 
 </details>
 
