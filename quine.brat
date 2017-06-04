@@ -1,0 +1,3 @@
+f = { c, s | p s + c + s + c }
+f 34.to_char, "f = { c, s | p s + c + s + c }
+f 34.to_char, "
