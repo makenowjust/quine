@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 239 programming languages!
+Now, implemented in 240 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -259,6 +259,7 @@ Now, implemented in 239 programming languages!
   - [Dao](http://daoscript.org/)
   - [Déjà Vu](https://github.com/gvx/deja)
   - [Efene](http://efene.org/index.html)
+  - [Brat](http://brat-lang.org)
 
 </details>
 
