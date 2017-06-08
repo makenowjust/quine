@@ -1,0 +1,6 @@
+text s;
+o_form(
+  s = "text s;
+o_form(
+  s = %c%s%c, 34, s, 34);
+", 34, s, 34);
