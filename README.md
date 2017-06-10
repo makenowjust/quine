@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 241 programming languages!
+Now, implemented in 242 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -261,6 +261,7 @@ Now, implemented in 241 programming languages!
   - [Efene](http://efene.org/index.html)
   - [Brat](http://brat-lang.org)
   - [Aime](http://aime-embedded.sourceforge.net)
+  - [FunL](http://edadma.github.io/funl-docs/index.html)
 
 </details>
 
