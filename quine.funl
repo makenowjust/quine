@@ -1,0 +1,2 @@
+printf((s = "printf((s = %c%s%c), 34, s, 34)
+"), 34, s, 34)
