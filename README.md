@@ -262,6 +262,7 @@ Now, implemented in 242 programming languages!
   - [Brat](http://brat-lang.org)
   - [Aime](http://aime-embedded.sourceforge.net)
   - [FunL](http://edadma.github.io/funl-docs/index.html)
+  - [Little](http://www.little-lang.org)
 
 </details>
 
