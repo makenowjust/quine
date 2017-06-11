@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 242 programming languages!
+Now, implemented in 243 programming languages!
 
 <details>
   <summary>Languages List</summary>
