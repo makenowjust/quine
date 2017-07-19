@@ -1,0 +1,3 @@
+s = ["s = ", "
+puts s[0] + s.to_s + s[1]"]
+puts s[0] + s.to_s + s[1]
