@@ -1,1 +1,1 @@
-$_=";print '\$_='~\$_.perl;\$_.say";print '$_='~$_.perl;$_.say
+".map(\{.perl.print;.say})".map({.perl.print;.say})
