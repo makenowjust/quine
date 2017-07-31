@@ -1,0 +1,12 @@
+func main() {
+  var a = "\"\\func main() {
+  var a = ;
+  for (var r in [2...25, 0...1, 0...1, 1, 2...-1, 0, 26...-1]) {
+    System.put(a[r]);
+  }
+}
+";
+  for (var r in [2...25, 0...1, 0...1, 1, 2...-1, 0, 26...-1]) {
+    System.put(a[r]);
+  }
+}
