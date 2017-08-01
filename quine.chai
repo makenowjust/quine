@@ -1,0 +1,7 @@
+var s = "
+  def Vector::p() { this.map(char).map(to_string).for_each(puts) }
+  [118, 97, 114, 32, 115, 32, 61, 32, 34].p
+  s.puts
+  [34, 10, 115, 46, 101, 118, 97, 108, 10].p
+"
+s.eval
