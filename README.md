@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 245 programming languages!
+Now, implemented in 246 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -265,6 +265,7 @@ Now, implemented in 245 programming languages!
   - [Little](http://www.little-lang.org)
   - [Goby](https://github.com/goby-lang/goby)
   - [Gravity](https://marcobambini.github.io/gravity/)
+  - [ChaiScript](http://chaiscript.com)
 
 </details>
 
