@@ -1,0 +1,1 @@
+(let ((s (quote (lambda (x) (write (list (quote let) (list (list (quote s) (list (quote quote) s))) (quote (eval (list s (list (quote quote) s)))))))))) (eval (list s (list (quote quote) s))))
