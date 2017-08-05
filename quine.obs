@@ -1,0 +1,39 @@
+class Hello {
+  function : Main(args : String[]) ~ Nil {
+    s := [
+      "class Hello {",
+      "  function : Main(args : String[]) ~ Nil {",
+      "    s := [",
+      "      ",
+      "    ];",
+      "    each (i : s) {",
+      "      if (i <> 3) {",
+      "        s[i] → PrintLine();",
+      "      } else {",
+      "        each (j : s) {",
+      "          s[i] → Print();",
+      "          34 → As(Char) → Print();",
+      "          s[j] → Print();",
+      "          34 → As(Char) → Print();",
+      "          44 → As(Char) → PrintLine();",
+      "        };",
+      "      };",
+      "    };",
+      "  }",
+      "}",
+    ];
+    each (i : s) {
+      if (i <> 3) {
+        s[i] → PrintLine();
+      } else {
+        each (j : s) {
+          s[i] → Print();
+          34 → As(Char) → Print();
+          s[j] → Print();
+          34 → As(Char) → Print();
+          44 → As(Char) → PrintLine();
+        };
+      };
+    };
+  }
+}
