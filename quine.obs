@@ -1,7 +1,7 @@
-class Hello {
+class Quine {
   function : Main(args : String[]) ~ Nil {
     s := [
-      "class Hello {",
+      "class Quine {",
       "  function : Main(args : String[]) ~ Nil {",
       "    s := [",
       "      ",
