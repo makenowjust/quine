@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 248 programming languages!
+Now, implemented in 249 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -268,6 +268,7 @@ Now, implemented in 248 programming languages!
   - [ChaiScript](http://chaiscript.com)
   - [Koka](https://www.microsoft.com/en-us/research/project/koka/)
   - [Objeck](http://www.objeck.org)
+  - [Zepto](https://github.com/zepto-lang/zepto)
 
 </details>
 
