@@ -1,1 +1,1 @@
-".map(\{.perl.print;.say})".map({.perl.print;.say})
+"~~\{say .perl~\$_}"~~{say .perl~$_}
