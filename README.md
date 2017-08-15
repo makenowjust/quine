@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 249 programming languages!
+Now, implemented in 250 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -269,6 +269,7 @@ Now, implemented in 249 programming languages!
   - [Koka](https://www.microsoft.com/en-us/research/project/koka/)
   - [Objeck](http://www.objeck.org)
   - [Zepto](https://github.com/zepto-lang/zepto)
+  - [Nit](https://nitlanguage.org)
 
 </details>
 
