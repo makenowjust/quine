@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 250 programming languages!
+Now, implemented in 251 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -270,6 +270,7 @@ Now, implemented in 250 programming languages!
   - [Objeck](http://www.objeck.org)
   - [Zepto](https://github.com/zepto-lang/zepto)
   - [Nit](https://nitlanguage.org)
+  - [Skylark](https://github.com/google/skylark)
 
 </details>
 
