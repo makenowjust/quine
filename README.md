@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 252 programming languages!
+Now, implemented in 253 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -272,6 +272,7 @@ Now, implemented in 252 programming languages!
   - [Nit](https://nitlanguage.org)
   - [Skylark](https://github.com/google/skylark)
   - [Mochi](https://github.com/i2y/mochi)
+  - [Lean](https://leanprover.github.io)
 
 </details>
 
