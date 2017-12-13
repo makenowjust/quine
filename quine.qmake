@@ -1,0 +1,2 @@
+Q = Q = %2\nlog(%1%1sprintf(%1%1escape_expand(%1%1Q), %1, %1%1Q))\n
+log($$sprintf($$escape_expand($$Q), $, $$Q))
