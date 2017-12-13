@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 255 programming languages!
+Now, implemented in 256 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -275,6 +275,7 @@ Now, implemented in 255 programming languages!
   - [Lean](https://leanprover.github.io)
   - [Bracmat](https://github.com/BartJongejan/Bracmat)
   - [CLIPS](http://www.clipsrules.net)
+  - [qmake](http://doc.qt.io/qt-5/qmake-manual.html)
 
 </details>
 
