@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 256 programming languages!
+Now, implemented in 257 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -276,6 +276,7 @@ Now, implemented in 256 programming languages!
   - [Bracmat](https://github.com/BartJongejan/Bracmat)
   - [CLIPS](http://www.clipsrules.net)
   - [qmake](http://doc.qt.io/qt-5/qmake-manual.html)
+  - [Zig](http://ziglang.org)
 
 </details>
 
