@@ -1,0 +1,1 @@
+(define $main (lambda [$args] (print (match {"(define $main (lambda [$args] (print (match " " (list string) {[(& <cons $x <cons $y _>> $xy) (append-string x (append-string (show xy) y))]}))))"} (list string) {[(& <cons $x <cons $y _>> $xy) (append-string x (append-string (show xy) y))]}))))
