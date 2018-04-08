@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 258 programming languages!
+Now, implemented in 259 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -278,6 +278,7 @@ Now, implemented in 258 programming languages!
   - [qmake](http://doc.qt.io/qt-5/qmake-manual.html)
   - [Zig](http://ziglang.org)
   - [Egison](https://www.egison.org)
+  - [Argile](http://www.nongnu.org/argile/)
 
 </details>
 
