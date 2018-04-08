@@ -1,0 +1,23 @@
+use std, list
+let src1 = $[\
+  "use std, list"\
+  "let src1 = $["\
+  "%c%c  %c%s%c"\
+  "%c%c]%c"\
+  "let src2 = src1"\
+  "print src1.data; next src1"\
+  "printf src1.data; next src1"\
+  "for each src2"\
+  "  printf src1.data 92 10 34 src2.data 34"\
+  "next src1; printf src1.data 92 10 10; next src1"\
+  "for each src1"\
+  "  print src1.data"\
+]
+let src2 = src1
+print src1.data; next src1
+printf src1.data; next src1
+for each src2
+  printf src1.data 92 10 34 src2.data 34
+next src1; printf src1.data 92 10 10; next src1
+for each src1
+  print src1.data
