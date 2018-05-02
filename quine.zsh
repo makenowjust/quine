@@ -1,1 +1,1 @@
-w='"' s="'" q='echo "w=$s$w$s s=$w$s$w q=$s$q$s;$q"';echo "w=$s$w$s s=$w$s$w q=$s$q$s;$q"
+s=\ \&\&\ printf\ \'s=%q%s\\n\'\ \$s\ \$s && printf 's=%q%s\n' $s $s
