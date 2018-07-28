@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 260 programming languages!
+Now, implemented in 261 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -280,6 +280,7 @@ Now, implemented in 260 programming languages!
   - [Egison](https://www.egison.org)
   - [Argile](http://www.nongnu.org/argile/)
   - [Konoha](https://github.com/konoha-project/konoha3)
+  - [Pyret](https://www.pyret.org)
 
 </details>
 
