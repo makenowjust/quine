@@ -1,5 +1,7 @@
 Quine Museum
 ===
+[![Backers on Open Collective](https://opencollective.com/quine/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/quine/sponsors/badge.svg)](#sponsors) 
 
 The Quine programs written by [@MakeNowJust].
 
@@ -288,8 +290,38 @@ License
 ---
 
 These codes are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
-[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
+[![Backers on Open Collective](https://opencollective.com/quine/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/quine/sponsors/badge.svg)](#sponsors) [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
 (C) 2014-2018 TSUYUSATO "MakeNowJust" Kitsune
 
 [@MakeNowJust]: https://github.com/MakeNowJust
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/MakeNowJust/quine/contributors"><img src="https://opencollective.com/quine/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/quine#backer)]
+
+<a href="https://opencollective.com/quine#backers" target="_blank"><img src="https://opencollective.com/quine/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/quine#sponsor)]
+
+<a href="https://opencollective.com/quine/sponsor/0/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/1/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/2/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/3/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/4/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/5/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/6/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/7/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/8/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/quine/sponsor/9/website" target="_blank"><img src="https://opencollective.com/quine/sponsor/9/avatar.svg"></a>
+
+
