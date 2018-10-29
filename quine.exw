@@ -1,0 +1,2 @@
+sequence s={"sequence s=","puts(1,s[1])?s puts(1,s[2])\n"}
+puts(1,s[1])?s puts(1,s[2])
