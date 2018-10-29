@@ -1,2 +1,1 @@
-sequence s={"sequence s=","puts(1,s[1])?s puts(1,s[2])\n"}
-puts(1,s[1])?s puts(1,s[2])
+string s="string s=?s[10..10]=34&s&34puts(1,s&10)"s[10..10]=34&s&34puts(1,s&10)
