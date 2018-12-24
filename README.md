@@ -251,7 +251,7 @@ Now, implemented in 262 programming languages!
   - [Ravi](http://the-ravi-programming-language.readthedocs.io/en/latest/ravi-overview.html)
   - [Elvish](https://github.com/elves/elvish)
   - [Jam](https://www.perforce.com/resources/documentation/jam)
-  - [Danfy](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
+  - [Dafny](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
   - [Coconut](http://coconut-lang.org/)
   - [Lily](https://fascinatedbox.github.io/lily-site/)
   - [Chapel](http://chapel.cray.com/)
