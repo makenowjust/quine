@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 263 programming languages!
+Now, implemented in 264 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -283,6 +283,7 @@ Now, implemented in 263 programming languages!
   - [Pyret](https://www.pyret.org)
   - [Phix](http://phix.x10.mx)
   - [Bon](https://github.com/FBMachine/bon)
+  - [Clean](https://clean.cs.ru.nl/Clean)
 
 </details>
 
