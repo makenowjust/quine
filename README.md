@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 265 programming languages!
+Now, implemented in 266 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -285,6 +285,7 @@ Now, implemented in 265 programming languages!
   - [Bon](https://github.com/FBMachine/bon)
   - [Clean](https://clean.cs.ru.nl/Clean)
   - [Flix](https://flix.github.io/)
+  - [Wolfram](https://www.wolfram.com/language/)
 
 </details>
 
