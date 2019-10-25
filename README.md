@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 266 programming languages!
+Now, implemented in 267 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -286,6 +286,7 @@ Now, implemented in 266 programming languages!
   - [Clean](https://clean.cs.ru.nl/Clean)
   - [Flix](https://flix.github.io/)
   - [Wolfram](https://www.wolfram.com/language/)
+  - [Never](https://never-lang.readthedocs.io/en/latest/)
 
 </details>
 
