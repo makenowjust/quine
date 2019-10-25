@@ -1,0 +1,57 @@
+func main() -> int {
+  let s = [
+    "func main() -> int {",
+    "  let s = [",
+    "  ] : string;",
+    "  q(s, 0)",
+    "}",
+    "",
+    "func q(s[L] : string, i : int) -> int {",
+    "  if (i == L - 6) 0 else {",
+    "    prints(s[i] + s[L-3]);",
+    "    if (i == 1) qq(s, 0);",
+    "    q(s, i+1)",
+    "  }",
+    "}",
+    "",
+    "func qq(s[L] : string, i : int) -> int {",
+    "  if (i == L - 6) {",
+    "    prints(s[L-6] + s[L-4] + s[L-6] + s[L-4] + s[L-1]",
+    "                  + s[L-4] + s[L-5] + s[L-5] + s[L-4] + s[L-1]",
+    "                  + s[L-4] + s[L-5] + s[L-4] + s[L-4] + s[L-1]",
+    "                  + s[L-4] + s[L-5] + s[L-2] + s[L-4] + s[L-1]",
+    "                  + s[L-4] + s[L-2] + s[L-4] + s[L-1]",
+    "                  + s[L-4] + s[L-1] + s[L-4] + s[L-3]);",
+    "    0",
+    "  } else {",
+    "    prints(s[L-6] + s[L-4] + s[i] + s[L-4] + s[L-1] + s[L-3]);",
+    "    qq(s, i+1)",
+    "  }",
+    "}",
+    "    ","\\","\"","\n","n",","
+  ] : string;
+  q(s, 0)
+}
+
+func q(s[L] : string, i : int) -> int {
+  if (i == L - 6) 0 else {
+    prints(s[i] + s[L-3]);
+    if (i == 1) qq(s, 0);
+    q(s, i+1)
+  }
+}
+
+func qq(s[L] : string, i : int) -> int {
+  if (i == L - 6) {
+    prints(s[L-6] + s[L-4] + s[L-6] + s[L-4] + s[L-1]
+                  + s[L-4] + s[L-5] + s[L-5] + s[L-4] + s[L-1]
+                  + s[L-4] + s[L-5] + s[L-4] + s[L-4] + s[L-1]
+                  + s[L-4] + s[L-5] + s[L-2] + s[L-4] + s[L-1]
+                  + s[L-4] + s[L-2] + s[L-4] + s[L-1]
+                  + s[L-4] + s[L-1] + s[L-4] + s[L-3]);
+    0
+  } else {
+    prints(s[L-6] + s[L-4] + s[i] + s[L-4] + s[L-1] + s[L-3]);
+    qq(s, i+1)
+  }
+}
