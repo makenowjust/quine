@@ -1,0 +1,48 @@
+import std::stdio::stdout
+import std::process
+
+let lines = Array.new(
+  'import std::stdio::stdout',
+  'import std::process',
+  '',
+  'let lines = Array.new(',
+  ')',
+  'let q = Array.new(',
+  'let q0 = q[0]!',
+  'let q1 = q[1]!',
+  'let q2 = q[2]!',
+  'let q3 = q[3]!',
+  '',
+  'lines.each do (line) {',
+  '  (line == lines[5]!).if(',
+  '    true: {',
+  '      stdout.print(line+q2+q0+q2+q0+q2+q1+q2+q0+q1+q2+q1+q0+q2+q3+q2+lines[4]!)',
+  '    },',
+  '    false: { stdout.print(line) }',
+  '  )',
+  '  (line == lines[3]!).if_true {',
+  '    lines.each do (line) {',
+  '      stdout.print(q3+q2+line+q2+q0)',
+  '    }',
+  '  }',
+  '}',
+)
+let q = Array.new(',','"',"'",'  ')
+let q0 = q[0]!
+let q1 = q[1]!
+let q2 = q[2]!
+let q3 = q[3]!
+
+lines.each do (line) {
+  (line == lines[5]!).if(
+    true: {
+      stdout.print(line+q2+q0+q2+q0+q2+q1+q2+q0+q1+q2+q1+q0+q2+q3+q2+lines[4]!)
+    },
+    false: { stdout.print(line) }
+  )
+  (line == lines[3]!).if_true {
+    lines.each do (line) {
+      stdout.print(q3+q2+line+q2+q0)
+    }
+  }
+}
