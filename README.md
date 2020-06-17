@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 268 programming languages!
+Now, implemented in 269 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -288,6 +288,7 @@ Now, implemented in 268 programming languages!
   - [Wolfram](https://www.wolfram.com/language/)
   - [Never](https://never-lang.readthedocs.io/en/latest/)
   - [Janet](https://janet-lang.org)
+  - [Inko](https://inko-lang.org)
 
 </details>
 
