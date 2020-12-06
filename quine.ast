@@ -1,0 +1,38 @@
+load "io".
+let [q, s] = escape "
+global __retval__
+__retval__ = ('list', [('string', chr(34)), ('string', s)])
+".
+let ls:[load_|io_|dot_|let1_|let2_|sp_|comma_|brk_|ns] = [
+  "load ",
+  "io",
+  ".",
+  "let [q, s] = escape ",
+  "let ls:[load_|io_|dot_|let1_|let2_|sp_|comma_|brk_|ns] = [",
+  "  ",
+  ",",
+  "].",
+  "println(load_ + q + io_ + q + dot_).",
+  "println(let1_ + q + s + q + dot_).",
+  "println let2_.",
+  "for (l:%string) in ls do",
+  "  println(sp_ + q + l + q + comma_)",
+  "end",
+  "println(sp_ + 0).",
+  "println brk_.",
+  "for (n:%string) in ns do",
+  "  println n.",
+  "end",
+  0
+].
+println(load_ + q + io_ + q + dot_).
+println(let1_ + q + s + q + dot_).
+println let2_.
+for (l:%string) in ls do
+  println(sp_ + q + l + q + comma_)
+end
+println(sp_ + 0).
+println brk_.
+for (n:%string) in ns do
+  println n.
+end
