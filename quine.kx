@@ -1,0 +1,1 @@
+(&()=>System.println(_1.c,_1,_1.d))({"c":"(&()=>System.println(_1.c,_1,_1.d))(","d":");"});
