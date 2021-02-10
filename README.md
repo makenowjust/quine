@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 272 programming languages!
+Now, implemented in 273 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -292,6 +292,7 @@ Now, implemented in 272 programming languages!
   - [Melon](https://github.com/daniele-rapagnani/melon)
   - [Asteroid](https://github.com/lutzhamel/asteroid)
   - [Odin](http://odin-lang.org)
+  - [Kinx](https://github.com/Kray-G/kinx)
 
 </details>
 
