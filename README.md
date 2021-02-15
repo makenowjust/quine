@@ -293,6 +293,7 @@ Now, implemented in 273 programming languages!
   - [Asteroid](https://github.com/lutzhamel/asteroid)
   - [Odin](http://odin-lang.org)
   - [Kinx](https://github.com/Kray-G/kinx)
+  - [V](https://vlang.io)
 
 </details>
 
