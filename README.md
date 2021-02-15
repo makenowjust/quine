@@ -300,9 +300,9 @@ Now, implemented in 273 programming languages!
 License
 ---
 
-These codes are licensed by [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license
+[SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware)
 [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
-(C) 2014-2020 TSUYUSATO "MakeNowJust" Kitsune
+(C) 2014-2021 TSUYUSATO "MakeNowJust" Kitsune
 
 [@MakeNowJust]: https://github.com/MakeNowJust
