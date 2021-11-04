@@ -1,0 +1,6 @@
+require "io"
+local s = [=[require "io"
+local s = [=[%s]%c]
+io.printf(s, s, 61)
+]=]
+io.printf(s, s, 61)
