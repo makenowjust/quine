@@ -1,7 +1,7 @@
 Quine Museum
 ===
 
-The Quine programs written by [@MakeNowJust].
+The Quine programs written by [@makenowjust].
 
 Note
 ---
@@ -307,6 +307,6 @@ License
 [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware)
 [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
-(C) 2014-2021 TSUYUSATO "MakeNowJust" Kitsune
+(C) 2014-2022 TSUYUSATO "[MakeNowJust][@makenowjust]" Kitsune
 
-[@MakeNowJust]: https://github.com/MakeNowJust
+[@makenowjust]: https://github.com/makenowjust
