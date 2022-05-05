@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 277 programming languages!
+Now, implemented in 278 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -297,6 +297,7 @@ Now, implemented in 277 programming languages!
   - [Nelua](https://nelua.io)
   - [Luau](https://luau-lang.org)
   - [Dino](https://dino-lang.github.io)
+  - [Hare](https://harelang.org)
 
 </details>
 
