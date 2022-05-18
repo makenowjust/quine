@@ -1,0 +1,34 @@
+class MAIN is
+  main is
+    ss:ARRAY{STR} := |
+      "class MAIN is",
+      "  main is",
+      "    ss:ARRAY{STR} := |",
+      "    |;",
+      "    loop",
+      "      s:STR := ss.elt!;",
+      "      #OUT + s + '\\n';",
+      "      if ss.ind! = 2 then",
+      "        #OUT + \"      \";",
+      "        loop",
+      "          #OUT + \",\\n      \".separate!(ss.elt!.pretty);",
+      "        end;",
+      "        #OUT + '\\n'",
+      "      end",
+      "    end",
+      "  end",
+      "end"
+    |;
+    loop
+      s:STR := ss.elt!;
+      #OUT + s + '\n';
+      if ss.ind! = 2 then
+        #OUT + "      ";
+        loop
+          #OUT + ",\n      ".separate!(ss.elt!.pretty);
+        end;
+        #OUT + '\n'
+      end
+    end
+  end
+end
