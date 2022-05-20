@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 279 programming languages!
+Now, implemented in 280 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -299,6 +299,7 @@ Now, implemented in 279 programming languages!
   - [Dino](https://dino-lang.github.io)
   - [Hare](https://harelang.org)
   - [Sather](http://www.gnu.org/software/sather/)
+  - [ICI](http://atrn.org/ici/)
 
 </details>
 
