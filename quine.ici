@@ -1,0 +1,5 @@
+s = [array
+  "printf(s[1], 10, 34, s[0], 34, 10, 34, s[1], 34, 10, 10, 10);",
+  "s = [array%c  %c%s%c,%c  %c%s%c,%c];%cparse(s[0], scope());%c",
+];
+parse(s[0], scope());
