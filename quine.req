@@ -1,0 +1,2 @@
+S = ["S = ",";\nwrite _ $S[0]; T = encode json $S; write _ $T; writeln _ $S[1];"];
+write _ $S[0]; T = encode json $S; write _ $T; writeln _ $S[1];
