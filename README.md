@@ -311,6 +311,6 @@ License
 [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware)
 [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
-(C) 2014-2022 TSUYUSATO "[MakeNowJust][@makenowjust]" Kitsune
+(C) 2014-2023 TSUYUSATO "[MakeNowJust][@makenowjust]" Kitsune
 
 [@makenowjust]: https://github.com/makenowjust
