@@ -1,0 +1,83 @@
+$ENTRY Go {
+  = <Prout <Q <S>>>;
+}
+
+Q {
+  (e.Last) =
+    e.Last <S nl>
+    <S sp> <S sp> nl <S eq> <S sp> <S sq> <S bs> <S nc> <S sq> <S sc> <S nl>
+    <S sp> <S sp> nc <S eq> <S sp> <S sq> <S nc> <S sq> <S sc> <S nl>
+    <S sp> <S sp> sq <S eq> <S sp> <S sq> <S bs> <S sq> <S sq> <S sc> <S nl>
+    <S sp> <S sp> bs <S eq> <S sp> <S sq> <S bs> <S bs> <S sq> <S sc> <S nl>
+    <S sp> <S sp> sp <S eq> <S sp> <S sq> <S sp> <S sq> <S sc> <S nl>
+    <S sp> <S sp> sc <S eq> <S sp> <S sq> <S sc> <S sq> <S sc> <S nl>
+    <S sp> <S sp> eq <S eq> <S sp> <S sq> <S eq> <S sq> <S sc> <S nl>
+    <S sp> <S sp> op <S eq> <S sp> <S sq> <S op> <S sq> <S sc> <S nl>
+    <S sp> <S sp> cp <S eq> <S sp> <S sq> <S cp> <S sq> <S sc> <S nl>
+    <S sp> <S sp> cc <S eq> <S sp> <S sq> <S cc> <S sq> <S sc> <S nl>
+    <S sp> <S sp> <S eq> <S nl>
+    <QQ <S>>
+    <S sp> <S sp> <S sp> <S sp> <S sc> <S nl>
+    <S cc>
+    ;
+  (e.Head) e.Tail = e.Head <S nl> <Q e.Tail>
+}
+
+QQ {
+  (e.Head) e.Tail =
+    <S sp> <S sp> <S sp> <S sp>
+    <S op> <S sq> e.Head <S sq> <S cp> <S nl>
+    <QQ e.Tail>
+    ;
+  =;
+}
+
+S {
+  nl = '\n';
+  nc = 'n';
+  sq = '\'';
+  bs = '\\';
+  sp = ' ';
+  sc = ';';
+  eq = '=';
+  op = '(';
+  cp = ')';
+  cc = '}';
+  =
+    ('$ENTRY Go {')
+    ('  = <Prout <Q <S>>>;')
+    ('}')
+    ('')
+    ('Q {')
+    ('  (e.Last) =')
+    ('    e.Last <S nl>')
+    ('    <S sp> <S sp> nl <S eq> <S sp> <S sq> <S bs> <S nc> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> nc <S eq> <S sp> <S sq> <S nc> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> sq <S eq> <S sp> <S sq> <S bs> <S sq> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> bs <S eq> <S sp> <S sq> <S bs> <S bs> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> sp <S eq> <S sp> <S sq> <S sp> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> sc <S eq> <S sp> <S sq> <S sc> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> eq <S eq> <S sp> <S sq> <S eq> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> op <S eq> <S sp> <S sq> <S op> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> cp <S eq> <S sp> <S sq> <S cp> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> cc <S eq> <S sp> <S sq> <S cc> <S sq> <S sc> <S nl>')
+    ('    <S sp> <S sp> <S eq> <S nl>')
+    ('    <QQ <S>>')
+    ('    <S sp> <S sp> <S sp> <S sp> <S sc> <S nl>')
+    ('    <S cc>')
+    ('    ;')
+    ('  (e.Head) e.Tail = e.Head <S nl> <Q e.Tail>')
+    ('}')
+    ('')
+    ('QQ {')
+    ('  (e.Head) e.Tail =')
+    ('    <S sp> <S sp> <S sp> <S sp>')
+    ('    <S op> <S sq> e.Head <S sq> <S cp> <S nl>')
+    ('    <QQ e.Tail>')
+    ('    ;')
+    ('  =;')
+    ('}')
+    ('')
+    ('S {')
+    ;
+}
