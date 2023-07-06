@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 284 programming languages!
+Now, implemented in 285 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -304,6 +304,7 @@ Now, implemented in 284 programming languages!
   - [Roc](https://www.roc-lang.org)
   - [Tweakflow](https://twineworks.github.io/tweakflow/index.html)
   - [Emmental](https://esolangs.org/wiki/Emmental)
+  - [Refal](https://bmstu-iu9.github.io/refal-5-lambda/)
 
 </details>
 
