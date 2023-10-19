@@ -1,0 +1,22 @@
+def main():
+    let ss = VariadicList(
+        'def main():',
+        '    let ss = VariadicList(',
+        '    )',
+        '    for i in range(len(ss)):',
+        '        print(ss[i])',
+        '        if i == 1:',
+        '            for j in range(len(ss)):',
+        '                print_no_newline("       ", chr(39))',
+        '                print_no_newline(ss[j])',
+        '                print_no_newline(chr(39))',
+        '                print(",")',
+    )
+    for i in range(len(ss)):
+        print(ss[i])
+        if i == 1:
+            for j in range(len(ss)):
+                print_no_newline("       ", chr(39))
+                print_no_newline(ss[j])
+                print_no_newline(chr(39))
+                print(",")
