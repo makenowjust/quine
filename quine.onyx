@@ -1,0 +1,16 @@
+use core { printf }
+
+main :: () {
+    q := "\"";
+    b := "\\";
+    s := "use core { printf }
+
+main :: () {
+    q := {}{}{}{};
+    b := {}{}{}{};
+    s := {}{}{};
+    printf(s, q, b, q, q, q, b, b, q, q, s, q);
+}
+";
+    printf(s, q, b, q, q, q, b, b, q, q, s, q);
+}
