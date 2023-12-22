@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, implemented in 286 programming languages!
+Now, Quine is implemented in 287 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -306,6 +306,7 @@ Now, implemented in 286 programming languages!
   - [Emmental](https://esolangs.org/wiki/Emmental)
   - [Refal](https://bmstu-iu9.github.io/refal-5-lambda/)
   - [Mojo](https://www.modular.com/mojo)
+  - [Onyx](https://onyxlang.io)
 
 </details>
 
