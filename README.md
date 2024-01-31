@@ -284,7 +284,7 @@ Now, Quine is implemented in 288 programming languages!
   - [Phix](http://phix.x10.mx)
   - [Bon](https://github.com/FBMachine/bon)
   - [Clean](https://clean.cs.ru.nl/Clean)
-  - [Flix](https://flix.github.io/)
+  - [Flix](https://flix.dev/)
   - [Wolfram](https://www.wolfram.com/language/)
   - [Never](https://never-lang.readthedocs.io/en/latest/)
   - [Janet](https://janet-lang.org)
