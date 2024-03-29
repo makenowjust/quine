@@ -1,0 +1,69 @@
+import mutable/array
+import text/string
+
+interface Quine {
+  def line(source: String): Unit
+}
+
+def sub(string: String, from: String, to: String): String = {
+  var result = ""
+  var parts = string.split(from)
+  each(0, parts.size) { i =>
+    if (i > 0) {
+      result = result ++ to
+    }
+    result = result ++ unsafeGet(parts, i)
+  }
+  result
+}
+
+def main() = {
+  try { quine() } with Quine {
+    def line(source) = resume(source.println)
+  }
+  try { quine() } with Quine {
+    def line(source) = {
+      resume((
+        "  do line(\"" ++ source.sub("\\", "\\\\").sub("\"", "\\\"") ++ "\")"
+      ).println)
+    }
+  }
+  println("}")
+}
+
+def quine(): Unit / { Quine } = {
+  do line("import mutable/array")
+  do line("import text/string")
+  do line("")
+  do line("interface Quine {")
+  do line("  def line(source: String): Unit")
+  do line("}")
+  do line("")
+  do line("def sub(string: String, from: String, to: String): String = {")
+  do line("  var result = \"\"")
+  do line("  var parts = string.split(from)")
+  do line("  each(0, parts.size) { i =>")
+  do line("    if (i > 0) {")
+  do line("      result = result ++ to")
+  do line("    }")
+  do line("    result = result ++ unsafeGet(parts, i)")
+  do line("  }")
+  do line("  result")
+  do line("}")
+  do line("")
+  do line("def main() = {")
+  do line("  try { quine() } with Quine {")
+  do line("    def line(source) = resume(source.println)")
+  do line("  }")
+  do line("  try { quine() } with Quine {")
+  do line("    def line(source) = {")
+  do line("      resume((")
+  do line("        \"  do line(\\\"\" ++ source.sub(\"\\\\\", \"\\\\\\\\\").sub(\"\\\"\", \"\\\\\\\"\") ++ \"\\\")\"")
+  do line("      ).println)")
+  do line("    }")
+  do line("  }")
+  do line("  println(\"}\")")
+  do line("}")
+  do line("")
+  do line("def quine(): Unit / { Quine } = {")
+}
