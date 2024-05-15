@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, Quine is implemented in 290 programming languages!
+Now, Quine is implemented in 291 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -310,6 +310,7 @@ Now, Quine is implemented in 290 programming languages!
   - [C3](https://c3-lang.org)
   - [Gleam](https://gleam.run)
   - [Effekt](https://effekt-lang.org)
+  - [MoonBit](https://www.moonbitlang.com)
 
 </details>
 
