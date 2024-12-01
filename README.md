@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, Quine is implemented in 292 programming languages!
+Now, Quine is implemented in 293 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -312,6 +312,7 @@ Now, Quine is implemented in 292 programming languages!
   - [Effekt](https://effekt-lang.org)
   - [MoonBit](https://www.moonbitlang.com)
   - [Calcit](https://calcit-lang.org)
+  - [Shiika](https://github.com/shiika-lang/shiika)
 
 </details>
 

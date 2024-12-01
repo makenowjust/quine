@@ -1,0 +1,3 @@
+let s = ["let s = ", "
+puts s[0] + s.inspect + s[1]"]
+puts s[0] + s.inspect + s[1]
