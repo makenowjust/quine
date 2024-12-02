@@ -1,0 +1,14 @@
+V xs = [
+  "V xs = [",
+  "]",
+  "print(xs[0])",
+  "L(x) xs",
+  "  print(‘  ’Char(code' 34)‘’x‘’Char(code' 34)‘,’)",
+  "L(x) xs[1..]",
+  "  print(x)",
+]
+print(xs[0])
+L(x) xs
+  print(‘  ’Char(code' 34)‘’x‘’Char(code' 34)‘,’)
+L(x) xs[1..]
+  print(x)
