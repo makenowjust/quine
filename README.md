@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Now, Quine is implemented in 296 programming languages!
+Now, Quine is implemented in 297 programming languages!
 
 <details>
   <summary>Languages List</summary>
@@ -316,6 +316,7 @@ Now, Quine is implemented in 296 programming languages!
   - [11l](http://11l-lang.org)
   - [Arturo](https://arturo-lang.io)
   - [Ballerina](https://ballerina.io)
+  - [ChucK](https://chuck.cs.princeton.edu)
 
 </details>
 
