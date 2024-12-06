@@ -1,0 +1,26 @@
+code = """
+
+main : '{IO, Exception} ()
+main = do printLine (Text.join "" [
+  "code = ",
+  fromCharList [?", ?", ?"],
+  Text.take 1 code,
+  code,
+  Text.take 1 code,
+  fromCharList [?", ?", ?"],
+  Text.take 1 code,
+  code,
+])
+"""
+
+main : '{IO, Exception} ()
+main = do printLine (Text.join "" [
+  "code = ",
+  fromCharList [?", ?", ?"],
+  Text.take 1 code,
+  code,
+  Text.take 1 code,
+  fromCharList [?", ?", ?"],
+  Text.take 1 code,
+  code,
+])
