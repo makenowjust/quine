@@ -15,10 +15,10 @@ I have three policies:
 Languages
 ---
 
-Now, Quine is implemented in 299 programming languages!
+Quine is implemented in 300 programming languages!
 
 <details>
-  <summary>Languages List</summary>
+  <summary>List of Languages</summary>
 
   - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - [Ruby](https://www.ruby-lang.org/)
@@ -319,6 +319,7 @@ Now, Quine is implemented in 299 programming languages!
   - [ChucK](https://chuck.cs.princeton.edu)
   - [Unison](https://www.unison-lang.org)
   - [Vedic](https://vedic-lang.github.io)
+  - [Harbour](https://harbour.github.io)
 
 </details>
 
