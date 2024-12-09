@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 300 programming languages!
+Quine is implemented in 301 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -320,6 +320,7 @@ Quine is implemented in 300 programming languages!
   - [Unison](https://www.unison-lang.org)
   - [Vedic](https://vedic-lang.github.io)
   - [Harbour](https://harbour.github.io)
+  - [Jolie](https://www.jolie-lang.org)
 
 </details>
 
