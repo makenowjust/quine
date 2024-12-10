@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 301 programming languages!
+Quine is implemented in 302 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -321,6 +321,7 @@ Quine is implemented in 301 programming languages!
   - [Vedic](https://vedic-lang.github.io)
   - [Harbour](https://harbour.github.io)
   - [Jolie](https://www.jolie-lang.org)
+  - [Latino](https://www.lenguajelatino.org)
 
 </details>
 

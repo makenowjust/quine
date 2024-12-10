@@ -1,0 +1,1 @@
+codigo = "codigo = %c%s%c escribir(cadena.formato(codigo, 34, codigo, 34))" escribir(cadena.formato(codigo, 34, codigo, 34))
