@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 302 programming languages!
+Quine is implemented in 303 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -322,6 +322,7 @@ Quine is implemented in 302 programming languages!
   - [Harbour](https://harbour.github.io)
   - [Jolie](https://www.jolie-lang.org)
   - [Latino](https://www.lenguajelatino.org)
+  - [Pickle](https://docs.python.org/3/library/pickle.html)
 
 </details>
 
