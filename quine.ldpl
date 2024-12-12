@@ -1,0 +1,36 @@
+DATA:
+  code IS TEXT
+  codes IS TEXT LIST
+  i IS NUMBER
+  q IS TEXT
+
+PROCEDURE:
+  PUSH "DATA:" TO codes
+  PUSH "  code IS TEXT" TO codes
+  PUSH "  codes IS TEXT LIST" TO codes
+  PUSH "  i IS NUMBER" TO codes
+  PUSH "  q IS TEXT" TO codes
+  PUSH "" TO codes
+  PUSH "PROCEDURE:" TO codes
+  PUSH "  GET ASCII CHARACTER 34 IN q" TO codes
+  PUSH "  FOR i FROM 0 TO 7 STEP 1 DO" TO codes
+  PUSH "    display codes:i lf" TO codes
+  PUSH "  REPEAT" TO codes
+  PUSH "  FOR EACH code IN codes DO" TO codes
+  PUSH "    display codes:17 q code q codes:18 lf" TO codes
+  PUSH "  REPEAT" TO codes
+  PUSH "  FOR i FROM 7 TO 17 STEP 1 DO" TO codes
+  PUSH "    display codes:i lf" TO codes
+  PUSH "  REPEAT" TO codes
+  PUSH "  PUSH " TO codes
+  PUSH " TO codes" TO codes
+  GET ASCII CHARACTER 34 IN q
+  FOR i FROM 0 TO 7 STEP 1 DO
+    display codes:i lf
+  REPEAT
+  FOR EACH code IN codes DO
+    display codes:17 q code q codes:18 lf
+  REPEAT
+  FOR i FROM 7 TO 17 STEP 1 DO
+    display codes:i lf
+  REPEAT
