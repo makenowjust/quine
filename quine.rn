@@ -1,0 +1,4 @@
+pub fn main() {
+  let s = ["pub fn main() {\n  let s = ", ";\n  println!(\"{}{:?}{}\", s[0], s, s[1])\n}"];
+  println!("{}{:?}{}", s[0], s, s[1])
+}

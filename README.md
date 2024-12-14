@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 305 programming languages!
+Quine is implemented in 306 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -325,6 +325,7 @@ Quine is implemented in 305 programming languages!
   - [Pickle](https://docs.python.org/3/library/pickle.html)
   - [LDPL](https://www.ldpl-lang.org)
   - [TXR Lisp](https://www.nongnu.org/txr/)
+  - [Rune](https://rune-rs.github.io)
 
 </details>
 
