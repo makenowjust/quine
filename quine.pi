@@ -1,0 +1,4 @@
+main =>
+  [Q, B] = "\"\\",
+  S = "main =>%n  [Q, B] = %c%c%c%c%c%c,%n  S = %c%s%c,%n  printf(S, Q, B, Q, B, B, Q, Q, S, Q).%n",
+  printf(S, Q, B, Q, B, B, Q, Q, S, Q).
