@@ -1,0 +1,13 @@
+std := import('std')
+{ replace: replace } := import('str')
+s := 'std := import("std")
+{ replace: replace } := import("str")
+s := "%"
+s |>
+  replace(char(34), char(39)) |>
+  replace(char(37), s) |>
+  std.println()'
+s |>
+  replace(char(34), char(39)) |>
+  replace(char(37), s) |>
+  std.println()
