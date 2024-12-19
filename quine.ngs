@@ -1,0 +1,1 @@
+echo(['echo([%].map(F(x) x.replace(chr(37), code(x)))[0])'].map(F(x) x.replace(chr(37), code(x)))[0])

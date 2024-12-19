@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 310 programming languages!
+Quine is implemented in 311 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -330,6 +330,7 @@ Quine is implemented in 310 programming languages!
   - [Picat](http://picat-lang.org)
   - [Oak](https://github.com/adam-mcdaniel/oakc)
   - [Oak](https://oaklang.org)
+  - [NGS](https://ngs-lang.org)
 
 </details>
 
