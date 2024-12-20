@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 311 programming languages!
+Quine is implemented in 312 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -331,6 +331,7 @@ Quine is implemented in 311 programming languages!
   - [Oak](https://github.com/adam-mcdaniel/oakc)
   - [Oak](https://oaklang.org)
   - [NGS](https://ngs-lang.org)
+  - [YSH](https://www.oilshell.org/release/latest/doc/ysh-tour.html)
 
 </details>
 

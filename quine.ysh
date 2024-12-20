@@ -1,0 +1,5 @@
+const s = '''const s = %s
+const q = "'"
+echo ${s//%[s]/$q$q$q$s$q$q$q}'''
+const q = "'"
+echo ${s//%[s]/$q$q$q$s$q$q$q}
