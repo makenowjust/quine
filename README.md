@@ -332,6 +332,7 @@ Quine is implemented in 312 programming languages!
   - [Oak](https://oaklang.org)
   - [NGS](https://ngs-lang.org)
   - [YSH](https://www.oilshell.org/release/latest/doc/ysh-tour.html)
+  - [Nushell](https://www.nushell.sh)
 
 </details>
 
