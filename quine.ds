@@ -1,0 +1,6 @@
+p = set "%"
+s = set "cCA9IHNldCAiJSIKcyA9IHNldCAiJXMiCnEgPSBiYXNlNjQgLWRlY29kZSAke3N9CnEgPSBieXRlc190b19zdHJpbmcgJHtxfQpxID0gcmVwbGFjZSAke3F9ICR7cH1zICR7c30KcHJpbnQgJHtxfQo="
+q = base64 -decode ${s}
+q = bytes_to_string ${q}
+q = replace ${q} ${p}s ${s}
+print ${q}
