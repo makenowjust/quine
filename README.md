@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 313 programming languages!
+Quine is implemented in 314 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -334,6 +334,7 @@ Quine is implemented in 313 programming languages!
   - [YSH](https://www.oilshell.org/release/latest/doc/ysh-tour.html)
   - [Nushell](https://www.nushell.sh)
   - [DuckScript](https://sagiegurari.github.io/duckscript/)
+  - [Erg](https://github.com/erg-lang/erg)
 
 </details>
 
