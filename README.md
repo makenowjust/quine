@@ -334,7 +334,7 @@ Quine is implemented in 314 programming languages!
   - [YSH](https://www.oilshell.org/release/latest/doc/ysh-tour.html)
   - [Nushell](https://www.nushell.sh)
   - [DuckScript](https://sagiegurari.github.io/duckscript/)
-  - [Erg](https://github.com/erg-lang/erg)
+  - [Erg](https://erg-lang.org)
 
 </details>
 
