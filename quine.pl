@@ -1,1 +1,1 @@
-$_=q{print"\$_=q{$_};eval\n"};eval
+$_=q[print"\$_=q[$_];eval\n"];eval
