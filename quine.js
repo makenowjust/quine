@@ -1,1 +1,1 @@
-eval(s="console.log('eval(s='+JSON.stringify(s)+')')")
+eval(s = "console.log('eval(s = '+JSON.stringify(s)+')')")
