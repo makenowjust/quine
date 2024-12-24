@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 316 programming languages!
+Quine is implemented in 315 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -199,7 +199,6 @@ Quine is implemented in 316 programming languages!
   - [Cat](https://code.google.com/p/cat-language/)
   - [Underload](https://esolangs.org/wiki/Underload)
   - [Roy](http://roy.brianmckenna.org)
-  - [ECMAScript6](http://wiki.ecmascript.org/doku.php?id=harmony:harmony)
   - [jisp](http://jisp.io)
   - [Sibilant](http://sibilantjs.info)
   - [Hodor](http://www.hodor-lang.org)
