@@ -1,0 +1,6 @@
+fmt := import("fmt")
+s := `fmt := import("fmt")
+s := %c%s%c
+fmt.printf(s, 96, s, 96)
+`
+fmt.printf(s, 96, s, 96)

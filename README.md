@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 315 programming languages!
+Quine is implemented in 316 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -335,6 +335,7 @@ Quine is implemented in 315 programming languages!
   - [DuckScript](https://sagiegurari.github.io/duckscript/)
   - [Erg](https://erg-lang.org)
   - [Fennel](https://fennel-lang.org)
+  - [Tengo](https://tengolang.com)
 
 </details>
 
