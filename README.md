@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 316 programming languages!
+Quine is implemented in 317 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -336,6 +336,7 @@ Quine is implemented in 316 programming languages!
   - [Erg](https://erg-lang.org)
   - [Fennel](https://fennel-lang.org)
   - [Tengo](https://tengolang.com)
+  - [Mewlix](https://kbmackenzie.xyz/projects/mewlix)
 
 </details>
 

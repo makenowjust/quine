@@ -1,0 +1,28 @@
+mew s = [
+  "~meow",
+  "  ~meow",
+  "    ~meow",
+  "      meow :3'  [std.char(34)][r][std.char(34)],'",
+  "    chase after r in t!!",
+  "    ~meow",
+  "      t = r push t",
+  "    chase after r in s!!",
+  "    mew t = []",
+  "  pounce when l == 'mew s = ['",
+  "  meow l",
+  "chase after l in s!!",
+  "]",
+  "mew s = [",
+]
+chase after l in s!!
+  meow l
+  pounce when l == 'mew s = ['
+    mew t = []
+    chase after r in s!!
+      t = r push t
+    ~meow
+    chase after r in t!!
+      meow :3'  [std.char(34)][r][std.char(34)],'
+    ~meow
+  ~meow
+~meow
