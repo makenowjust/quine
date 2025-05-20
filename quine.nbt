@@ -1,0 +1,15 @@
+let t = join(map(chr, [123, 116, 125]), join([], chr(0)))
+let t = "let t = join(map(chr, [123, 116, 125]), join([], chr(0)))
+let t = {t}
+print(
+  t |>
+  str_slice(0, 66) |>
+  str_prepend(join([chr(34), t, chr(34)], join([], chr(0)))) |>
+  str_prepend(str_slice(69, str_length(t), t))
+)"
+print(
+  t |>
+  str_slice(0, 66) |>
+  str_prepend(join([chr(34), t, chr(34)], join([], chr(0)))) |>
+  str_prepend(str_slice(69, str_length(t), t))
+)
