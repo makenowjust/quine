@@ -1,0 +1,9 @@
+!YS-v0
+q =: |-
+  !YS-v0
+  q =: |-
+    %s
+  p =: join(lines(q) base64-decode("CiAg"))
+  say: format(q p)
+p =: join(lines(q) base64-decode("CiAg"))
+say: format(q p)
