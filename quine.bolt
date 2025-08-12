@@ -1,0 +1,11 @@
+import print from core
+import strings
+
+let s = "import print from core
+import strings
+
+let s = %s%s%s
+let c = strings.from_byte(34)
+print(s.format(c, s, c))"
+let c = strings.from_byte(34)
+print(s.format(c, s, c))
