@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 320 programming languages!
+Quine is implemented in 321 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -340,6 +340,7 @@ Quine is implemented in 320 programming languages!
   - [Numbat](https://numbat.dev)
   - [YS](https://yamlscript.org)
   - [Bolt](https://github.com/Beariish/bolt)
+  - [Daslang](https://daslang.io)
 
 </details>
 
