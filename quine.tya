@@ -1,0 +1,16 @@
+import json
+
+lines =
+  "import json"
+  ""
+  "lines ="
+  "for line1, index in lines"
+  "  print(line1)"
+  "  if index == 2"
+  "    for line2 in lines"
+  "      print(\"  \" + json.Json.dump(line2))"
+for line1, index in lines
+  print(line1)
+  if index == 2
+    for line2 in lines
+      print("  " + json.Json.dump(line2))
