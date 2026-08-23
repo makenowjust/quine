@@ -218,7 +218,7 @@ Quine is implemented in 323 programming languages!
   - [Falcon](http://www.falconpl.org)
   - [E](http://wiki.erights.org/wiki/Main_Page)
   - [Felix](http://felix-lang.org)
-  - [எழில்](http://ezhillang.org) - Ezhil
+  - [எழில்](https://github.com/Ezhil-Language-Foundation/ezhil-lang) - Ezhil
   - [REXX](http://www.oorexx.org/)
   - [GNU bc](http://www.gnu.org/software/bc/)
   - [Foo](http://esolangs.org/wiki/Foo)
