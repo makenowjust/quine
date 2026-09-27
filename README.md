@@ -15,7 +15,7 @@ I have three policies:
 Languages
 ---
 
-Quine is implemented in 323 programming languages!
+Quine is implemented in 324 programming languages!
 
 <details>
   <summary>List of Languages</summary>
@@ -343,6 +343,7 @@ Quine is implemented in 323 programming languages!
   - [Daslang](https://daslang.io)
   - [Tya](https://tya-lang.org)
   - [Uiua](https://www.uiua.org)
+  - [Goose](https://github.com/aardappel/goose/)
 
 </details>
 
